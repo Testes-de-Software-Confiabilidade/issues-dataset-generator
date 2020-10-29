@@ -8,3 +8,11 @@ Esse dataset será criado com base nas issues de bug dos seguintes softwares ope
 - [vue](https://github.com/vuejs/vue)
 
 É preferível que esses scripts sejam feitos em Python, pois existem diversos pacotes que já implementam os modelos estatísticos que iremos usar. 
+
+## Referencias bibliograficas importantes
+
+- Open source software reliability model: an empirical approach [[Original]](https://www.ics.uci.edu/~wscacchi/Papers/WOSSE-2005/ZhouDavis.pdf) [[Tradução]](https://durvalcarvalho.github.io/testesSoftware/#/artigos/open-source-software-reliability-model-an-empirical-approach)
+
+- An empirical analysis of open source software defects data through software reliability growth models [[Original]](https://booksc.xyz/book/31986905/aec648) [[Tradução]](https://durvalcarvalho.github.io/testesSoftware/#/artigos/an-empirical-analysis-of-open-source-software-defects-data-through-software-reliability-growth-models)
+
+- A Comparative Analysis of Software Reliability Growth Models using Defects Data of Closed and Open Source Software [[Original]](https://booksc.xyz/book/21572363/897a7b) [[Tradução]](https://durvalcarvalho.github.io/testesSoftware/#/artigos/a-comparative-analysis-of-software-reliability-growth-models-using-defects-data-of-closed-and-open-source-software)
