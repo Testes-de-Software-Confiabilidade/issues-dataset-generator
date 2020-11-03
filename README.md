@@ -9,6 +9,13 @@ Esse dataset será criado com base nas issues de bug dos seguintes softwares ope
 
 É preferível que esses scripts sejam feitos em Python, pois existem diversos pacotes que já implementam os modelos estatísticos que iremos usar. 
 
+## Requisitos para rodar o script
+- [Instalar Python](https://www.python.org/downloads/)
+- [Instalar PyGithub](https://pygithub.readthedocs.io/en/latest/introduction.html)
+- [Gerar seu Personal Access Token](https://github.com/settings/tokens)
+
+
+
 ## Referencias bibliograficas importantes
 
 - Open source software reliability model: an empirical approach [[Original]](https://www.ics.uci.edu/~wscacchi/Papers/WOSSE-2005/ZhouDavis.pdf) [[Tradução]](https://durvalcarvalho.github.io/testesSoftware/#/artigos/open-source-software-reliability-model-an-empirical-approach)
