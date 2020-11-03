@@ -4,6 +4,11 @@ from reliability.Probability_plotting import plot_points
 import matplotlib.pyplot as plt
 from collections import Counter
 
+import seaborn as sns
+
+
+from reliability.Utils import generate_X_array
+import scipy.stats as ss
 
 class GraphGenerator:
 
@@ -14,7 +19,7 @@ class GraphGenerator:
 
 
     @staticmethod
-    def export_graphs(dataset_file, image_name):
+    def export_graphs(dataset_file, image_name, title):
         dataset = GraphGenerator.get_dataset(dataset_file)
 
         hist = Counter()
@@ -25,35 +30,28 @@ class GraphGenerator:
         for date in dataset:
             axis_y.append(hist[date])
 
-        plt.suptitle('Padrão de chegada de bugs')
-        plt.xlabel('Meses')
-        plt.ylabel('Bugs reportados')
+        fig, ax1 = plt.subplots()
+        ax1.set_xlabel('Meses')
+        ax1.set_ylabel('Bugs reportados', color='tab:red')
+        ax1.plot(dataset, axis_y, color='tab:red')
 
-        plt.plot(dataset, axis_y)
+
+        plt.suptitle(title)
+    
+        wb = Fit_Weibull_2P(failures=dataset,show_probability_plot=False,print_results=False)
+        weibull = Weibull_Distribution(alpha=wb.alpha,beta=wb.beta)
+        X = generate_X_array(dist=weibull, xvals=None, xmin=None, xmax=None)
+        Y = ss.weibull_min.pdf(X, weibull.beta, scale=weibull.alpha, loc=weibull.gamma)
+        
+        print(dataset[-1])
+        count = len([i for i in X if i < dataset[-1]+1 ])
+
+        X = X[:count]
+        Y = Y[:count]
+
+        ax2 = ax1.twinx()
+        ax2.set_ylabel('Função de densidade de probabilidade de Weibull', color='tab:blue')
+        ax2.plot(X, Y, color='tab:blue')
+
+        fig.tight_layout()
         plt.savefig(image_name)
-
-# dataset = get_dataset('vue_dataset.txt')
-
-# hist = Counter()
-# axis_y = []
-# for date in dataset:
-#     hist[date] += 1
-
-# for date in dataset:
-#     axis_y.append(hist[date])
-
-# plt.suptitle('Padrão de chegada de bugs')
-# plt.ylabel('bugs reportados')
-# plt.xlabel('meses')
-# plt.plot(dataset, axis_y)
-# plt.savefig('vuejs_bugs_reports.png')
-
-# # data = Weibull_Distribution(alpha=25,beta=4).random_samples(30)
-# weibull_fit = Fit_Weibull_2P(failures=dataset, show_probability_plot=False,print_results=False)
-
-# print(weibull_fit.alpha)
-
-# weibull_fit.distribution.PDF(label='Fitted Distribution',color='steelblue')
-# plot_points(failures=dataset,func='PDF',label='failure data',color='red',alpha=0.7)
-
-# plt.legend()

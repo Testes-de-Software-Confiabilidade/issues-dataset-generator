@@ -3,7 +3,11 @@ class DatasetGenerator:
 		from github import Github
 		g = Github(token)
 		repo = g.get_repo(repo_name)
-		self.closed_issues = repo.get_issues(**issues_filters)
+		
+		issues_filters['state'] = 'closed'
+		self.closed_issues = list(repo.get_issues(**issues_filters))
+		issues_filters['state'] = 'open'
+		self.closed_issues += list(repo.get_issues(**issues_filters))
 
 	def export_dataset(self, filename):
 		dates = []
@@ -13,11 +17,12 @@ class DatasetGenerator:
 
 		for issue in self.closed_issues:
 			date = issue.created_at.replace(day=1, hour=0, minute=0, second=0)
+			print(date)
 			dates.append(date)
 
 		self.months = []
 
-		with open(filename, 'w+') as file:
+		with open(filename, 'w') as file:
 			for date in sorted(dates):
 				month = date.month
 
