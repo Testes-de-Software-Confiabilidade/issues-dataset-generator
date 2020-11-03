@@ -20,6 +20,7 @@ class GraphGenerator:
 
     @staticmethod
     def export_graphs(dataset_file, image_name, title):
+        sns.set_theme()
         dataset = GraphGenerator.get_dataset(dataset_file)
 
         hist = Counter()

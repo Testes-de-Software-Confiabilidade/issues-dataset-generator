@@ -1,4 +1,4 @@
-SOFTWARE = 'ANGULAR'
+SOFTWARE = 'VUE'
 
 if(SOFTWARE == 'VUE'):
     DATASET_FILE = 'datasets/vue_dataset.txt'
@@ -8,7 +8,7 @@ if(SOFTWARE == 'VUE'):
         'labels': ['bug']
     }
 
-elif(SOFTWARE=='ANGULAR'):
+elif(SOFTWARE == 'ANGULAR'):
     DATASET_FILE = 'datasets/angularjs_dataset.txt'
     GRAPH_NAME = 'graph/angularjs.png'
     REPO_NAME = 'angular/angular.js'
