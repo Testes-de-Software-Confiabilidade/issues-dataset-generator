@@ -3,10 +3,8 @@ from github import Github
 
 
 
-g = Github("GERE UM TOKEN E COLOQUE AQUI")
-repo = g.get_repo("vuejs/vue")
-
-
+g = Github("b6d6aaeb5b2dbbdb08dae57231a653d557fcdadd")
+repo = g.get_repo("facebook/react")
 
 def get_closed_issues(labels):
 	closed_issues = repo.get_issues(state='closed', labels=labels)
