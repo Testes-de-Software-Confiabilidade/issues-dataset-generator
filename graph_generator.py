@@ -21,8 +21,11 @@ class GraphGenerator:
             dataset = [int(date.strip()) for date in file]
         return dataset
 
-    def export_graphs(self, image_name, title):
         
+    def export_graphs(self, image_name, title):
+        sns.set_theme()
+        dataset = GraphGenerator.get_dataset(dataset_file)
+
         hist = Counter()
         axis_y = []
         for date in self.dataset:
