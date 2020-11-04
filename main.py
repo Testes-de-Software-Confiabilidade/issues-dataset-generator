@@ -1,4 +1,4 @@
-SOFTWARE = 'ANGULAR'
+SOFTWARE = 'ASPNETCORE'
 
 if(SOFTWARE == 'VUE'):
     DATASET_FILE = 'datasets/vue_dataset.txt'
@@ -8,13 +8,38 @@ if(SOFTWARE == 'VUE'):
         'labels': ['bug']
     }
 
-elif(SOFTWARE=='ANGULAR'):
+elif(SOFTWARE=='ANGULARJS'):
     DATASET_FILE = 'datasets/angularjs_dataset.txt'
     GRAPH_NAME = 'graph/angularjs.png'
     REPO_NAME = 'angular/angular.js'
     filters = {
         'labels': ['type: bug']
     }
+
+elif(SOFTWARE=='ANGULAR'):
+    DATASET_FILE = 'datasets/angular_dataset.txt'
+    GRAPH_NAME = 'graph/angular.png'
+    REPO_NAME = 'angular/angular'
+    filters = {
+        'labels': ['type: bug/fix']
+    }
+
+elif(SOFTWARE == 'SPRING'):
+    DATASET_FILE = 'datasets/spring_dataset.txt'
+    GRAPH_NAME = 'graph/spring.png'
+    REPO_NAME = 'spring-projects/spring-framework'
+    filters = {
+        'labels': ['type: bug']
+    }
+
+elif(SOFTWARE == 'ASPNETCORE'):
+    DATASET_FILE = 'datasets/aspnetcore_dataset.txt'
+    GRAPH_NAME = 'graph/aspnetcore.png'
+    REPO_NAME = 'dotnet/aspnetcore'
+    filters = {
+        'labels': ['bug']
+    }
+
 
 else:
     DATASET_FILE = 'datasets/react_dataset.txt'
@@ -24,7 +49,7 @@ else:
         'labels': ['Type: Bug']
     }
 
-GITHUB_TOKEN = '82a7cc5ab498b5ca86ea05eeefad40b3ed5398aa'
+GITHUB_TOKEN = '355de9b38dc2ea0279dfa4d44cd82120ea71794e'
 
 def main():
     from dataset_generator import DatasetGenerator
@@ -32,9 +57,10 @@ def main():
     
     # ds = DatasetGenerator(token=GITHUB_TOKEN, repo_name=REPO_NAME, issues_filters=filters)
     # ds.export_dataset(DATASET_FILE)
-    
-    GraphGenerator.export_graphs(
-        dataset_file=DATASET_FILE, 
+
+    gg = GraphGenerator(dataset_file=DATASET_FILE)
+
+    gg.export_graphs(
         image_name=GRAPH_NAME, 
         title='Padrão de chegada de issues de Bug do Repositório %s' % (REPO_NAME)
     )

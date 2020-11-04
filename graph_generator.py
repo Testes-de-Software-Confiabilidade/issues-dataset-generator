@@ -12,39 +12,40 @@ import scipy.stats as ss
 
 class GraphGenerator:
 
+    def __init__(self, dataset_file):
+        self.dataset = GraphGenerator.get_dataset(dataset_file)
+
+    
     def get_dataset(file_name):
         with open(file_name) as file:
             dataset = [int(date.strip()) for date in file]
         return dataset
 
-
-    @staticmethod
-    def export_graphs(dataset_file, image_name, title):
-        dataset = GraphGenerator.get_dataset(dataset_file)
-
+    def export_graphs(self, image_name, title):
+        
         hist = Counter()
         axis_y = []
-        for date in dataset:
+        for date in self.dataset:
             hist[date] += 1
 
-        for date in dataset:
+        for date in self.dataset:
             axis_y.append(hist[date])
 
         fig, ax1 = plt.subplots()
         ax1.set_xlabel('Meses')
         ax1.set_ylabel('Bugs reportados', color='tab:red')
-        ax1.plot(dataset, axis_y, color='tab:red')
-
+        ax1.plot(self.dataset, axis_y, color='tab:red')
 
         plt.suptitle(title)
     
-        wb = Fit_Weibull_2P(failures=dataset,show_probability_plot=False,print_results=False)
-        weibull = Weibull_Distribution(alpha=wb.alpha,beta=wb.beta)
+        wb = Fit_Weibull_2P(failures=self.dataset,show_probability_plot=False,print_results=True)
+        weibull = wb.distribution
+        print(weibull.stats())
+
         X = generate_X_array(dist=weibull, xvals=None, xmin=None, xmax=None)
         Y = ss.weibull_min.pdf(X, weibull.beta, scale=weibull.alpha, loc=weibull.gamma)
-        
-        print(dataset[-1])
-        count = len([i for i in X if i < dataset[-1]+1 ])
+
+        count = len([i for i in X if i < self.dataset[-1]+1 ])
 
         X = X[:count]
         Y = Y[:count]
