@@ -4,8 +4,6 @@ from reliability.Probability_plotting import plot_points
 import matplotlib.pyplot as plt
 from collections import Counter
 
-import seaborn as sns
-
 
 from reliability.Utils import generate_X_array
 import scipy.stats as ss
@@ -23,8 +21,6 @@ class GraphGenerator:
 
         
     def export_graphs(self, image_name, title):
-        sns.set_theme()
-        dataset = GraphGenerator.get_dataset(dataset_file)
 
         hist = Counter()
         axis_y = []
