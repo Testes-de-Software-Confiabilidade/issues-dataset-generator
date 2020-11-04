@@ -1,12 +1,14 @@
 from reliability.Distributions import Weibull_Distribution
 from reliability.Fitters import Fit_Weibull_2P
-from reliability.Probability_plotting import plot_points
 import matplotlib.pyplot as plt
 from collections import Counter
 
 
 from reliability.Utils import generate_X_array
 import scipy.stats as ss
+
+import numpy as np
+from sklearn import datasets, linear_model
 
 class GraphGenerator:
 
@@ -18,6 +20,19 @@ class GraphGenerator:
         with open(file_name) as file:
             dataset = [int(date.strip()) for date in file]
         return dataset
+    
+
+    def linear_regression(self, axis_x, axis_y):
+        axis_x = np.array(axis_x).reshape((-1, 1))
+        axis_y = np.array(axis_y)
+
+        model = linear_model.LinearRegression().fit(axis_x, axis_y)
+        
+        line_y = model.predict(axis_x)
+        plt.plot(axis_x, line_y,  color='blue', linewidth=1)
+
+        plt.suptitle('Regressão Linear no último terço do repositório do software Spring')
+        plt.show()
 
         
     def export_graphs(self, image_name, title):
@@ -34,6 +49,10 @@ class GraphGenerator:
         ax1.set_xlabel('Meses')
         ax1.set_ylabel('Bugs reportados', color='tab:red')
         ax1.plot(self.dataset, axis_y, color='tab:red')
+
+        #  Gerar gráfico para regressão linear do último terço
+        # _size = len(self.dataset)//3
+        # self.linear_regression(self.dataset[2*_size:], axis_y[2*_size:])
 
         plt.suptitle(title)
     
