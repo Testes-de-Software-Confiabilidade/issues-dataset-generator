@@ -1,4 +1,4 @@
-SOFTWARE = 'ASPNETCORE'
+SOFTWARE = 'SPRING'
 
 if(SOFTWARE == 'VUE'):
     DATASET_FILE = 'datasets/vue_dataset.txt'
@@ -62,7 +62,7 @@ def main():
 
     gg.export_graphs(
         image_name=GRAPH_NAME, 
-        title='Padrão de chegada de issues de Bug do Repositório %s' % (REPO_NAME)
+        title='Padrão de chegada de issues de\nBug do Repositório %s' % (REPO_NAME)
     )
 
 main()
