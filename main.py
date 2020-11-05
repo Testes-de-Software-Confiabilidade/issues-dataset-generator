@@ -60,7 +60,7 @@ else:
     r = Repository('dotnet/aspnetcore', filters_rules)
 
 
-GITHUB_TOKEN = 'f3b8d1620919e5e0b6f0315ba2b40edd8eba584b'
+GITHUB_TOKEN = ''
 
 
 from dataset_generator import DatasetGenerator
