@@ -1,4 +1,4 @@
-SOFTWARE = 'ASPNETCORE'
+SOFTWARE = 'SPRING'
 
 from RepositoryClass import Repository
     
@@ -43,7 +43,7 @@ elif(SOFTWARE == 'SPRING'):
     filters_rules = {
         'labels': {
             'must_have': ['type: bug'],
-            'blocklist_labels': []
+            'blocklist_labels': ['status: invalid', 'status: duplicate']
         }
     }
 
