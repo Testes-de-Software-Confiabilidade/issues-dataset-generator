@@ -4,8 +4,10 @@ from RepositoryClass import Repository
     
 if(SOFTWARE == 'VUE'):
     filters_rules = { 
-        'must_have': ['bug'],
-        'blocklist_labels': []
+        'labels': {
+            'must_have': ['bug'],
+            'blocklist_labels': []
+        }
     }
 
     r = Repository('vuejs/vue', filters_rules)
@@ -28,24 +30,31 @@ elif(SOFTWARE=='ANGULARJS'):
 
 elif(SOFTWARE=='ANGULAR'):
     filters_rules = {
-        'must_have': ['type: bug/fix'],
-        'blocklist_labels': []
+        'labels': {
+        
+            'must_have': ['type: bug/fix'],
+            'blocklist_labels': []
+        }
     }
 
     r = Repository('angular/angular', filters_rules)
 
 elif(SOFTWARE == 'SPRING'):
     filters_rules = {
-        'must_have': ['type: bug'],
-        'blocklist_labels': []
+        'labels': {
+            'must_have': ['type: bug'],
+            'blocklist_labels': []
+        }
     }
 
     r = Repository('spring-projects/spring-framework', filters_rules)
 
 elif(SOFTWARE == 'ASPNETCORE'):
     filters = {
-        'must_have': ['bug'],
-        'blocklist_labels': []
+        'labels': {
+            'must_have': ['bug'],
+            'blocklist_labels': []
+        }
     }
 
     r = Repository('dotnet/aspnetcore', filters_rules)
@@ -53,8 +62,10 @@ elif(SOFTWARE == 'ASPNETCORE'):
 
 else:
     filters = {
-        'must_have': ['Type: Bug'],
-        'blocklist_labels': []
+        'labels': {
+            'must_have': ['Type: Bug'],
+            'blocklist_labels': []
+        }
     }
 
     r = Repository('dotnet/aspnetcore', filters_rules)
