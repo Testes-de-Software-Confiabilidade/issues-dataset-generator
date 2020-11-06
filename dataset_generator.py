@@ -4,6 +4,7 @@ from RepositoryClass import Repository
 from IssueClass import Issue
 import datetime
 import time
+from github import RateLimitExceededException
 
 class DatasetGenerator:
     def __init__(self, token, repository, loadFromFile=False):
@@ -44,15 +45,38 @@ class DatasetGenerator:
                 return False
 
         return True
+    
 
+    def rate_limited_retry(github):
+        def decorator(func):
+            def ret(*args, **kwargs):
+                for _ in range(3):
+                    try:
+                        return func(*args, **kwargs)
+                    except RateLimitExceededException:
+                        limits = self.g.get_rate_limit()
+                        reset = limits.search.reset.replace(tzinfo=timezone.utc)
+                        now = datetime.now(timezone.utc)
+                        seconds = (reset - now).total_seconds()
+                        print(f"Rate limit exceeded")
+                        print(f"Reset is in {seconds:.3g} seconds.")
+                        if seconds > 0.0:
+                            print(f"Waiting for {seconds:.3g} seconds...")
+                            time.sleep(seconds)
+                            print("Done waiting - resume!")
+                raise Exception("Failed too many times")
+            return ret
+        return decorator
 
+    @rate_limited_retry(github)
     def apply_filters(self):
         filtered_issues = []
-        
+
         with open(self.repository.dataset_file, 'w') as file:
             file.write('"id", "closed_at", "created_at", "state", "url"\n')
 
             for i, issue in enumerate(self.all_issues):
+                
                 perc = f'{i / self.all_issues.totalCount:.2f}%'
                 print(i, self.all_issues.totalCount, perc,  self.g.get_rate_limit())
 
