@@ -18,7 +18,6 @@ class DatasetGenerator:
 
         self.idx = 0
         self.tokens_list = [
-
         ]
 
         if(loadFromFile):
