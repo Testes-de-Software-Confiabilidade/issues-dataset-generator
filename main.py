@@ -1,4 +1,4 @@
-SOFTWARE = 'ASPNETCORE'
+SOFTWARE = 'SPRING'
 
 from RepositoryClass import Repository
     

@@ -24,7 +24,11 @@ class DatasetGenerator:
             self.filtered_issues = self.read_csv()
             
         else:
-            self.all_issues = self.repository_connection.get_issues(state='all')
+            self.all_issues = self.repository_connection.get_issues(
+                state     = 'all',
+                labels    = list(self.repository.must_have_labels),
+                direction = 'asc'
+            )
             self.filtered_issues = self.apply_filters()
 
 
