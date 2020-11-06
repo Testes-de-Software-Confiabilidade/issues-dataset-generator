@@ -2,15 +2,24 @@ import github
 from github.PaginatedList import PaginatedList
 from RepositoryClass import Repository
 from IssueClass import Issue
-import datetime
+
+import datetime 
 import time
 from github import RateLimitExceededException
+
+import requests
+
 
 class DatasetGenerator:
     def __init__(self, token, repository, loadFromFile=False):
         self.g = github.Github(token)
         self.repository = repository
         self.repository_connection = self.g.get_repo(repository.url)
+
+        self.idx = 0
+        self.tokens_list = [
+
+        ]
 
         if(loadFromFile):
             self.filtered_issues = self.read_csv()
@@ -46,37 +55,21 @@ class DatasetGenerator:
 
         return True
     
-
-    def rate_limited_retry(github):
-        def decorator(func):
-            def ret(*args, **kwargs):
-                for _ in range(3):
-                    try:
-                        return func(*args, **kwargs)
-                    except RateLimitExceededException:
-                        limits = self.g.get_rate_limit()
-                        reset = limits.search.reset.replace(tzinfo=timezone.utc)
-                        now = datetime.now(timezone.utc)
-                        seconds = (reset - now).total_seconds()
-                        print(f"Rate limit exceeded")
-                        print(f"Reset is in {seconds:.3g} seconds.")
-                        if seconds > 0.0:
-                            print(f"Waiting for {seconds:.3g} seconds...")
-                            time.sleep(seconds)
-                            print("Done waiting - resume!")
-                raise Exception("Failed too many times")
-            return ret
-        return decorator
-
-    @rate_limited_retry(github)
     def apply_filters(self):
+      
         filtered_issues = []
 
         with open(self.repository.dataset_file, 'w') as file:
             file.write('"id", "closed_at", "created_at", "state", "url"\n')
 
             for i, issue in enumerate(self.all_issues):
-                
+
+                remaining = self.g.get_rate_limit().core.remaining
+
+                if(remaining < 10):
+                    self.idx += 1
+                    self.g._Github__requester._Requester__authorizationHeader = "token " + self.tokens_list[self.idx % 3]
+
                 perc = f'{i / self.all_issues.totalCount:.2f}%'
                 print(i, self.all_issues.totalCount, perc,  self.g.get_rate_limit())
 
@@ -90,8 +83,7 @@ class DatasetGenerator:
                     print(f'{issue.number} {issue.html_url} is valid\n')
                 else:
                     print(f'{issue.number} {issue.html_url} is invalid\n')
-
-
+        
         print('%s issues válidas' % len(filtered_issues))
         return filtered_issues
 
