@@ -1,4 +1,4 @@
-SOFTWARE = 'SPRING'
+SOFTWARE = 'VUE'
 
 from RepositoryClass import Repository
     
@@ -32,7 +32,7 @@ elif(SOFTWARE=='ANGULAR'):
     filters_rules = {
         'labels': {
             'must_have': ['type: bug/fix'],
-            'blocklist_labels': []
+            'blocklist_labels': ['needs reproduction', 'needs clarification']
         }
     }
 
@@ -71,7 +71,6 @@ else:
 
 
 GITHUB_TOKEN = ''
-
 
 from dataset_generator import DatasetGenerator
 from graph_generator import GraphGenerator

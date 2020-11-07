@@ -3,7 +3,7 @@ from github.PaginatedList import PaginatedList
 from RepositoryClass import Repository
 from IssueClass import Issue
 
-import datetime 
+import datetime
 import time
 from github import RateLimitExceededException
 
@@ -18,31 +18,33 @@ class DatasetGenerator:
 
         self.idx = 0
         self.tokens_list = [
+            '',  # DURVAL
+            '',  # MICA
+            ''  # LUCAS
         ]
 
         if(loadFromFile):
             self.filtered_issues = self.read_csv()
-            
+
         else:
             self.all_issues = self.repository_connection.get_issues(
-                state     = 'all',
-                labels    = list(self.repository.must_have_labels),
-                direction = 'asc'
+                state='all',  # closed and open
+                # get only issues with must_have_labels
+                labels=list(self.repository.must_have_labels),
+                direction='asc'  # oldest issue to newest
             )
             self.filtered_issues = self.apply_filters()
-
 
     def read_csv(self):
         filtered_issues = []
         with open(self.repository.dataset_file, 'r') as file:
-            file.readline() # jump csv header line
+            file.readline()  # jump csv header line
 
             for issue in file:
                 issue_data = issue.strip().split(',')
                 filtered_issues.append(Issue(*issue_data))
 
         return filtered_issues
-
 
     def is_valid(self, issue):
         all_labels = set()
@@ -51,16 +53,14 @@ class DatasetGenerator:
             all_labels.add(label.name)
             if(label.name in self.repository.blocklist_labels):
                 return False
-            
-        for label in self.repository.must_have_labels:
-            if(label not in all_labels):
-                return False
 
         return True
-    
+
     def apply_filters(self):
-      
+
         filtered_issues = []
+
+        total = self.all_issues.totalCount
 
         with open(self.repository.dataset_file, 'w') as file:
             file.write('"id", "closed_at", "created_at", "state", "url"\n')
@@ -71,25 +71,26 @@ class DatasetGenerator:
 
                 if(remaining < 10):
                     self.idx += 1
-                    self.g._Github__requester._Requester__authorizationHeader = "token " + self.tokens_list[self.idx % 3]
+                    self.g._Github__requester._Requester__authorizationHeader = "token " + \
+                        self.tokens_list[self.idx % 3]
 
-                perc = f'{i / self.all_issues.totalCount:.2f}%'
-                print(i, self.all_issues.totalCount, perc,  self.g.get_rate_limit())
+                perc = str(int(((i/total)*10000))/100) + '%'
+                print(i, total, perc, self.g.get_rate_limit())
 
                 if(issue.pull_request):
                     continue
 
                 if(self.is_valid(issue)):
                     filtered_issues.append(issue)
-                    file.write((f"{issue.number}, {issue.closed_at}, {issue.created_at}, {issue.state}, {issue.url}\n"))
+                    file.write(
+                        (f"{issue.number}, {issue.closed_at}, {issue.created_at}, {issue.state}, {issue.url}\n"))
 
                     print(f'{issue.number} {issue.html_url} is valid\n')
                 else:
                     print(f'{issue.number} {issue.html_url} is invalid\n')
-        
+
         print('%s issues válidas' % len(filtered_issues))
         return filtered_issues
-
 
     def get_issue_months(self):
         dates = []
@@ -106,11 +107,10 @@ class DatasetGenerator:
         for date in dates:
             if(prev_date):
                 years_counter += (date.year - prev_date.year)
-            
+
             prev_date = date
 
             month = years_counter * 12 + date.month
             months.append(month)
-        
-        return months
 
+        return months
