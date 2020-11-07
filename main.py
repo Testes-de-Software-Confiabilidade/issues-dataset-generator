@@ -1,68 +1,86 @@
-SOFTWARE = 'SPRING'
+SOFTWARE = 'ASPNETCORE'
 
+from RepositoryClass import Repository
+    
 if(SOFTWARE == 'VUE'):
-    DATASET_FILE = 'datasets/vue_dataset.txt'
-    GRAPH_NAME = 'graph/vuejs.png'
-    REPO_NAME = 'vuejs/vue'
-    filters = {
-        'labels': ['bug']
+    filters_rules = {
+        'labels': {
+            'must_have': ['bug'],
+            'blocklist_labels': []
+        }
     }
+
+    r = Repository('vuejs/vue', filters_rules)
 
 elif(SOFTWARE=='ANGULARJS'):
-    DATASET_FILE = 'datasets/angularjs_dataset.txt'
-    GRAPH_NAME = 'graph/angularjs.png'
-    REPO_NAME = 'angular/angular.js'
-    filters = {
-        'labels': ['type: bug']
+    filters_rules = {
+        'labels': {
+            'must_have': ['type: bug'],
+
+            'blocklist_labels': [
+                'resolution: invalid', 
+                "resolution: can't reproduce",
+                'resolution: duplicate',
+                'Known Issue'
+            ]
+        }
     }
+
+    r = Repository('angular/angular.js', filters_rules)
 
 elif(SOFTWARE=='ANGULAR'):
-    DATASET_FILE = 'datasets/angular_dataset.txt'
-    GRAPH_NAME = 'graph/angular.png'
-    REPO_NAME = 'angular/angular'
-    filters = {
-        'labels': ['type: bug/fix']
+    filters_rules = {
+        'labels': {
+            'must_have': ['type: bug/fix'],
+            'blocklist_labels': ['needs reproduction', 'needs clarification']
+        }
     }
+
+    r = Repository('angular/angular', filters_rules)
 
 elif(SOFTWARE == 'SPRING'):
-    DATASET_FILE = 'datasets/spring_dataset.txt'
-    GRAPH_NAME = 'graph/spring.png'
-    REPO_NAME = 'spring-projects/spring-framework'
-    filters = {
-        'labels': ['type: bug']
+    filters_rules = {
+        'labels': {
+            'must_have': ['type: bug'],
+            'blocklist_labels': []
+        }
     }
 
+    r = Repository('spring-projects/spring-framework', filters_rules)
+
 elif(SOFTWARE == 'ASPNETCORE'):
-    DATASET_FILE = 'datasets/aspnetcore_dataset.txt'
-    GRAPH_NAME = 'graph/aspnetcore.png'
-    REPO_NAME = 'dotnet/aspnetcore'
-    filters = {
-        'labels': ['bug']
+    filters_rules = {
+        'labels': {
+            'must_have': ['bug'],
+            'blocklist_labels': []
+        }
     }
+
+    r = Repository('dotnet/aspnetcore', filters_rules)
 
 
 else:
-    DATASET_FILE = 'datasets/react_dataset.txt'
-    GRAPH_NAME = 'graph/react.png'
-    REPO_NAME = 'facebook/react'
     filters = {
-        'labels': ['Type: Bug']
+        'labels': {
+            'must_have': ['Type: Bug'],
+            'blocklist_labels': []
+        }
     }
 
-GITHUB_TOKEN = '355de9b38dc2ea0279dfa4d44cd82120ea71794e'
+    r = Repository('dotnet/aspnetcore', filters_rules)
+
+
+GITHUB_TOKEN = ''
+
+from dataset_generator import DatasetGenerator
+from graph_generator import GraphGenerator
 
 def main():
-    from dataset_generator import DatasetGenerator
-    from graph_generator import GraphGenerator
     
-    # ds = DatasetGenerator(token=GITHUB_TOKEN, repo_name=REPO_NAME, issues_filters=filters)
-    # ds.export_dataset(DATASET_FILE)
+    # change loadFromFile to True if you have dataset file
+    dg = DatasetGenerator(token=GITHUB_TOKEN, repository=r, loadFromFile=True)
 
-    gg = GraphGenerator(dataset_file=DATASET_FILE)
-
-    gg.export_graphs(
-        image_name=GRAPH_NAME, 
-        title='Padrão de chegada de issues de\nBug do Repositório %s' % (REPO_NAME)
-    )
+    gg = GraphGenerator(dg)
+    gg.weibull()
 
 main()
