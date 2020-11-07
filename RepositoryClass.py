@@ -10,3 +10,4 @@ class Repository:
         self.name = url.split('/')[1].replace('.', '')
         self.dataset_file = 'datasets/' + self.name + '.csv'
         self.chart_name = 'graph/' + self.name + '.png'
+        self.chart_name_linear = 'graph/' + self.name + 'linear_regression' + '.png'

@@ -12,21 +12,20 @@ import requests
 
 class DatasetGenerator:
     def __init__(self, token, repository, loadFromFile=False):
-        self.g = github.Github(token)
         self.repository = repository
-        self.repository_connection = self.g.get_repo(repository.url)
-
-        self.idx = 0
-        self.tokens_list = [
-            '',  # DURVAL
-            '',  # MICA
-            ''  # LUCAS
-        ]
-
         if(loadFromFile):
             self.filtered_issues = self.read_csv()
 
         else:
+            self.g = github.Github(token)
+            self.repository_connection = self.g.get_repo(repository.url)
+
+            self.idx = 0
+            self.tokens_list = [
+                '',  # DURVAL
+                '',  # MICA
+                ''  # LUCAS
+            ]
             self.all_issues = self.repository_connection.get_issues(
                 state='all',  # closed and open
                 # get only issues with must_have_labels

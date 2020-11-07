@@ -1,4 +1,4 @@
-SOFTWARE = 'VUE'
+SOFTWARE = 'ASPNETCORE'
 
 from RepositoryClass import Repository
     
@@ -78,15 +78,9 @@ from graph_generator import GraphGenerator
 def main():
     
     # change loadFromFile to True if you have dataset file
-    dg = DatasetGenerator(token=GITHUB_TOKEN, repository=r, loadFromFile=False)
+    dg = DatasetGenerator(token=GITHUB_TOKEN, repository=r, loadFromFile=True)
 
     gg = GraphGenerator(dg)
-
-    # gg.weibull()
-
-    # gg.export_graphs(
-    #     image_name=GRAPH_NAME, 
-    #     title='Padrão de chegada de issues de\nBug do Repositório %s' % (REPO_NAME)
-    # )
+    gg.weibull()
 
 main()
