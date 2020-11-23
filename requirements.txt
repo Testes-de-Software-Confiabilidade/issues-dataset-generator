@@ -1,6 +1,6 @@
+gunicorn
 PyGithub
 reliability
 matplotlib
 scipy
 flask
-gunicorn
