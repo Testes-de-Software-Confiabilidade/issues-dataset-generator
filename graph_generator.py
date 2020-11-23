@@ -8,24 +8,24 @@ from reliability.Utils import generate_X_array
 import scipy.stats as ss
 
 import numpy as np
-from sklearn import datasets, linear_model
+# from sklearn import linear_model
 
 class GraphGenerator:
 
     def __init__(self, dataset_generator):
         self.dg = dataset_generator
     
-    def linear_regression(self, axis_x, axis_y):
-        axis_x = np.array(axis_x).reshape((-1, 1))
-        axis_y = np.array(axis_y)
+    # def linear_regression(self, axis_x, axis_y):
+    #     axis_x = np.array(axis_x).reshape((-1, 1))
+    #     axis_y = np.array(axis_y)
 
-        model = linear_model.LinearRegression().fit(axis_x, axis_y)
+    #     model = linear_model.LinearRegression().fit(axis_x, axis_y)
         
-        line_y = model.predict(axis_x)
-        plt.plot(axis_x, line_y,  color='blue', linewidth=1)
+    #     line_y = model.predict(axis_x)
+    #     plt.plot(axis_x, line_y,  color='blue', linewidth=1)
 
-        plt.suptitle('Regressão Linear no último terço do repositório do software Spring')
-        plt.savefig(self.dg.repository.chart_name_linear)
+    #     plt.suptitle('Regressão Linear no último terço do repositório do software Spring')
+    #     plt.savefig(self.dg.repository.chart_name_linear)
 
     def weibull(self):
 

@@ -1,8 +1,4 @@
 #!/bin/bash
 
-python3.7 -m venv env
-source env/bin/activate
-
-pip install -r requirements.txt
-
-python main.py
+pip3.7 install -r requirements.txt
+python3.7 main.py

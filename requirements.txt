@@ -1,6 +1,5 @@
-PyGithub==1.53
-reliability==0.5.3
-matplotlib==3.3.2
-scipy==1.5.3
-Flask==1.1.2
-scikit-learn==0.23.2
+PyGithub
+reliability
+matplotlib
+scipy
+flask
