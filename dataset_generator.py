@@ -24,7 +24,7 @@ class DatasetGenerator:
             self.tokens_list = [
                 '',  # DURVAL
                 '',  # MICA
-                ''  # LUCAS
+                ''   # LUCAS
             ]
             self.all_issues = self.repository_connection.get_issues(
                 state='all',  # closed and open
@@ -68,10 +68,10 @@ class DatasetGenerator:
 
                 remaining = self.g.get_rate_limit().core.remaining
 
-                if(remaining < 10):
-                    self.idx += 1
-                    self.g._Github__requester._Requester__authorizationHeader = "token " + \
-                        self.tokens_list[self.idx % 3]
+                # if(remaining < 10):
+                #     self.idx += 1
+                #     self.g._Github__requester._Requester__authorizationHeader = "token " + \
+                #         self.tokens_list[self.idx % 3]
 
                 perc = str(int(((i/total)*10000))/100) + '%'
                 print(i, total, perc, self.g.get_rate_limit())

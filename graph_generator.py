@@ -48,7 +48,6 @@ class GraphGenerator:
     
         wb = Fit_Weibull_2P(failures=months,show_probability_plot=False,print_results=True)
         weibull = wb.distribution
-        print(weibull.stats())
 
         X = generate_X_array(dist=weibull, xvals=None, xmin=None, xmax=None)
         Y = ss.weibull_min.pdf(X, weibull.beta, scale=weibull.alpha, loc=weibull.gamma)
@@ -64,3 +63,5 @@ class GraphGenerator:
 
         fig.tight_layout()
         plt.savefig(self.dg.repository.chart_name)
+        # plt.show()
+

@@ -3,8 +3,12 @@ from datetime import datetime
 class Issue:
     def __init__(self, id, closed_at, created_at, state, url):
         self._id = id.strip()
+        
         if(not 'None' in closed_at):
             self._closed_at = datetime.strptime(closed_at.strip(), '%Y-%m-%d %H:%M:%S')
+        else:
+            self._closed_at = None
+
 
         self._created_at = datetime.strptime(created_at.strip(), '%Y-%m-%d %H:%M:%S')
         self._state = state.strip()

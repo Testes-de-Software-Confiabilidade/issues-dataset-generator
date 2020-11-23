@@ -1,5 +1,6 @@
 class Repository:
     def __init__(self, url, filters_rules):
+        
         self.url = url
 
         labels_rules = filters_rules['labels']

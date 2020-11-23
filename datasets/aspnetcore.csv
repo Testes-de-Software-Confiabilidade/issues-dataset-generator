@@ -18,16 +18,15 @@
 1288, 2016-02-08 18:49:04, 2016-02-08 16:07:10, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/1288
 4987, 2019-09-20 16:32:15, 2016-02-19 18:03:06, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4987
 4680, 2019-12-05 21:44:08, 2016-04-11 18:13:10, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4680
-5380, None, 2016-05-28 01:10:43, open, https://api.github.com/repos/dotnet/aspnetcore/issues/5380
+5380, 2020-11-12 19:57:21, 2016-05-28 01:10:43, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5380
 4679, 2019-03-07 16:15:47, 2016-06-01 14:17:36, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4679
 3793, None, 2016-07-07 12:11:39, open, https://api.github.com/repos/dotnet/aspnetcore/issues/3793
 5863, 2018-12-19 23:54:40, 2016-08-22 21:24:38, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5863
-5983, None, 2016-08-30 17:44:08, open, https://api.github.com/repos/dotnet/aspnetcore/issues/5983
 5865, 2018-12-19 23:54:55, 2016-10-31 21:57:28, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5865
 4993, 2019-09-20 16:34:47, 2016-12-07 00:21:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4993
 9139, None, 2017-01-05 20:09:39, open, https://api.github.com/repos/dotnet/aspnetcore/issues/9139
 4824, None, 2017-01-25 10:08:01, open, https://api.github.com/repos/dotnet/aspnetcore/issues/4824
-4996, None, 2017-03-04 00:04:30, open, https://api.github.com/repos/dotnet/aspnetcore/issues/4996
+4996, 2020-11-12 19:55:39, 2017-03-04 00:04:30, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4996
 4997, 2019-09-20 17:53:41, 2017-03-14 14:20:31, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4997
 5001, 2019-09-20 16:35:14, 2017-03-28 17:41:41, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5001
 4829, 2019-01-15 22:22:29, 2017-03-31 03:30:11, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4829
@@ -40,7 +39,7 @@
 4835, 2019-09-20 16:37:29, 2017-05-12 21:11:52, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4835
 4836, None, 2017-05-18 16:06:29, open, https://api.github.com/repos/dotnet/aspnetcore/issues/4836
 5743, 2019-03-09 00:21:52, 2017-05-28 00:00:29, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5743
-5015, None, 2017-06-16 23:16:30, open, https://api.github.com/repos/dotnet/aspnetcore/issues/5015
+5015, 2020-11-12 19:57:54, 2017-06-16 23:16:30, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5015
 2072, 2017-06-28 15:21:34, 2017-06-26 15:36:57, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2072
 2083, 2017-07-02 22:24:19, 2017-07-02 09:11:04, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2083
 4136, None, 2017-07-31 16:14:01, open, https://api.github.com/repos/dotnet/aspnetcore/issues/4136
@@ -52,7 +51,7 @@
 5878, 2018-12-19 23:56:14, 2017-10-05 18:53:24, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5878
 5409, 2019-03-27 07:50:12, 2017-10-24 21:54:06, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5409
 5881, 2018-12-19 23:56:37, 2017-11-14 13:39:27, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5881
-4767, None, 2017-11-30 17:34:23, open, https://api.github.com/repos/dotnet/aspnetcore/issues/4767
+4767, 2020-11-13 03:20:25, 2017-11-30 17:34:23, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4767
 4860, 2019-01-15 22:08:51, 2017-12-06 15:38:52, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4860
 5036, 2019-08-14 23:00:39, 2017-12-12 16:18:52, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5036
 5041, 2019-01-16 23:03:58, 2017-12-27 19:01:11, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5041
@@ -63,13 +62,14 @@
 2378, 2018-06-25 21:02:52, 2018-01-01 20:10:01, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2378
 2383, 2018-01-19 21:28:37, 2018-01-01 20:11:37, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2383
 2403, 2018-04-13 17:52:00, 2018-01-01 20:17:22, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2403
-2406, None, 2018-01-01 20:17:39, open, https://api.github.com/repos/dotnet/aspnetcore/issues/2406
+2406, 2020-11-06 19:25:51, 2018-01-01 20:17:39, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2406
 2410, 2018-01-10 23:07:05, 2018-01-01 20:19:31, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2410
 2414, 2018-01-17 08:58:14, 2018-01-01 20:21:02, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2414
 2417, 2018-09-25 21:47:46, 2018-01-01 20:21:38, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2417
-2420, None, 2018-01-01 20:22:50, open, https://api.github.com/repos/dotnet/aspnetcore/issues/2420
+2420, 2020-11-06 19:21:45, 2018-01-01 20:22:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2420
 2423, 2018-11-02 20:22:48, 2018-01-01 20:57:40, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2423
 2427, 2019-09-20 16:46:56, 2018-01-01 21:23:51, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2427
+2439, 2020-11-11 21:11:53, 2018-01-01 21:30:25, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2439
 2452, 2018-10-24 22:43:24, 2018-01-01 21:38:39, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2452
 2465, 2018-01-24 21:40:04, 2018-01-01 21:48:30, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2465
 2536, 2018-01-19 04:49:27, 2018-01-01 23:50:01, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2536
@@ -77,7 +77,7 @@
 2598, 2018-01-23 19:16:41, 2018-01-02 00:56:04, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2598
 2599, 2018-01-17 22:38:41, 2018-01-02 00:56:16, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2599
 2600, 2018-01-17 22:38:46, 2018-01-02 00:56:28, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2600
-2605, None, 2018-01-02 01:00:42, open, https://api.github.com/repos/dotnet/aspnetcore/issues/2605
+2605, 2020-11-16 18:21:16, 2018-01-02 01:00:42, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2605
 2630, 2018-03-16 20:37:36, 2018-01-02 01:11:13, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2630
 2654, 2018-01-19 18:04:36, 2018-01-02 01:56:37, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2654
 2656, 2018-01-04 19:02:17, 2018-01-02 01:58:12, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2656
@@ -87,11 +87,15 @@
 2679, 2018-02-06 04:25:54, 2018-01-02 02:09:52, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2679
 2686, None, 2018-01-02 02:12:54, open, https://api.github.com/repos/dotnet/aspnetcore/issues/2686
 2692, 2018-02-01 14:22:38, 2018-01-02 02:15:52, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2692
+2694, None, 2018-01-02 02:46:25, open, https://api.github.com/repos/dotnet/aspnetcore/issues/2694
+2696, None, 2018-01-02 02:47:02, open, https://api.github.com/repos/dotnet/aspnetcore/issues/2696
 2705, 2018-01-31 23:02:08, 2018-01-02 02:50:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2705
 2711, None, 2018-01-02 02:52:37, open, https://api.github.com/repos/dotnet/aspnetcore/issues/2711
 2718, 2019-04-11 22:36:30, 2018-01-02 02:54:30, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2718
 2720, None, 2018-01-02 02:55:36, open, https://api.github.com/repos/dotnet/aspnetcore/issues/2720
-2726, None, 2018-01-02 02:58:12, open, https://api.github.com/repos/dotnet/aspnetcore/issues/2726
+2723, None, 2018-01-02 02:56:53, open, https://api.github.com/repos/dotnet/aspnetcore/issues/2723
+2726, 2020-11-11 22:08:03, 2018-01-02 02:58:12, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2726
+2733, None, 2018-01-02 03:00:25, open, https://api.github.com/repos/dotnet/aspnetcore/issues/2733
 2737, 2018-11-30 22:47:57, 2018-01-02 18:33:52, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2737
 3849, None, 2018-01-05 02:09:51, open, https://api.github.com/repos/dotnet/aspnetcore/issues/3849
 2755, 2018-01-26 20:52:03, 2018-01-09 09:26:21, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2755
@@ -117,6 +121,7 @@
 5050, 2019-08-28 16:55:25, 2018-02-24 15:57:10, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5050
 2906, 2019-04-16 22:51:41, 2018-02-27 04:23:13, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2906
 4878, 2019-01-15 21:32:33, 2018-02-27 08:03:32, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4878
+21787, None, 2018-02-28 22:54:49, open, https://api.github.com/repos/dotnet/aspnetcore/issues/21787
 2923, 2018-03-12 18:41:09, 2018-03-06 07:57:05, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/2923
 5770, 2019-01-24 20:15:44, 2018-03-06 23:41:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5770
 5885, None, 2018-03-07 18:11:42, open, https://api.github.com/repos/dotnet/aspnetcore/issues/5885
@@ -193,6 +198,7 @@
 3437, 2018-08-28 22:26:09, 2018-08-17 20:46:57, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/3437
 14288, 2019-11-19 23:22:12, 2018-08-23 18:39:09, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/14288
 5583, None, 2018-08-27 20:17:12, open, https://api.github.com/repos/dotnet/aspnetcore/issues/5583
+5934, None, 2018-08-27 21:06:40, open, https://api.github.com/repos/dotnet/aspnetcore/issues/5934
 5584, 2020-06-11 23:06:15, 2018-08-28 00:10:05, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5584
 5084, 2019-08-14 22:58:39, 2018-08-28 18:44:32, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5084
 3479, 2019-07-03 19:58:50, 2018-08-30 00:00:53, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/3479
@@ -230,7 +236,6 @@
 5830, 2019-04-17 20:23:08, 2018-10-22 09:42:55, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5830
 5616, 2019-06-27 15:32:22, 2018-10-22 12:40:05, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5616
 3698, 2019-01-30 15:06:56, 2018-10-22 23:01:59, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/3698
-3704, None, 2018-10-23 21:19:42, open, https://api.github.com/repos/dotnet/aspnetcore/issues/3704
 5618, 2019-03-26 13:32:56, 2018-10-24 13:43:08, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5618
 5619, 2019-01-07 14:01:03, 2018-10-26 21:30:23, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5619
 5621, 2020-10-06 12:51:12, 2018-10-30 01:43:53, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5621
@@ -248,7 +253,6 @@
 4694, 2019-01-03 23:04:32, 2018-11-07 20:41:03, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4694
 5264, 2019-08-28 16:46:25, 2018-11-09 19:46:31, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5264
 4938, 2019-01-15 21:55:38, 2018-11-10 00:24:05, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4938
-5105, None, 2018-11-10 01:43:03, open, https://api.github.com/repos/dotnet/aspnetcore/issues/5105
 4639, None, 2018-11-12 17:47:38, open, https://api.github.com/repos/dotnet/aspnetcore/issues/4639
 5637, 2019-04-19 17:06:14, 2018-11-12 21:14:15, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5637
 5946, 2019-01-14 06:45:02, 2018-11-14 15:28:51, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5946
@@ -259,6 +263,7 @@
 4941, 2019-05-29 19:13:22, 2018-11-16 06:06:46, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4941
 4942, None, 2018-11-16 12:44:26, open, https://api.github.com/repos/dotnet/aspnetcore/issues/4942
 4943, 2019-02-20 01:54:55, 2018-11-19 13:08:31, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4943
+4692, None, 2018-11-19 15:36:21, open, https://api.github.com/repos/dotnet/aspnetcore/issues/4692
 4944, 2019-04-22 18:17:39, 2018-11-19 18:14:26, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4944
 5109, 2020-05-18 22:14:28, 2018-11-20 00:13:37, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/5109
 4946, 2019-02-03 21:55:02, 2018-11-20 10:06:51, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4946
@@ -284,7 +289,7 @@
 4429, 2018-12-14 22:56:14, 2018-12-05 18:53:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4429
 4451, 2019-02-13 01:21:21, 2018-12-06 00:58:15, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4451
 4480, 2019-01-02 17:51:21, 2018-12-06 21:38:37, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4480
-4487, None, 2018-12-07 00:17:13, open, https://api.github.com/repos/dotnet/aspnetcore/issues/4487
+4487, 2020-11-16 18:38:35, 2018-12-07 00:17:13, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4487
 4504, 2019-07-24 03:05:11, 2018-12-07 14:38:02, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4504
 4951, 2019-01-02 18:36:49, 2018-12-08 09:26:54, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4951
 4564, 2019-02-03 05:02:44, 2018-12-11 11:48:38, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/4564
@@ -313,7 +318,7 @@
 6134, 2019-07-03 16:44:15, 2018-12-26 22:44:49, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6134
 6146, 2019-08-29 23:04:29, 2018-12-27 17:02:27, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6146
 6149, None, 2018-12-27 19:43:26, open, https://api.github.com/repos/dotnet/aspnetcore/issues/6149
-6160, None, 2018-12-28 13:06:42, open, https://api.github.com/repos/dotnet/aspnetcore/issues/6160
+6160, 2020-11-06 19:36:04, 2018-12-28 13:06:42, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6160
 6183, 2019-01-09 19:41:11, 2018-12-29 23:05:51, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6183
 6184, 2019-01-02 04:06:34, 2018-12-29 23:22:17, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6184
 6186, 2019-01-01 00:14:07, 2018-12-29 23:59:27, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6186
@@ -352,6 +357,8 @@
 6597, 2019-03-12 17:24:54, 2019-01-11 05:44:57, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6597
 6616, 2019-02-13 06:17:06, 2019-01-11 18:47:33, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6616
 6623, 2020-06-19 18:37:05, 2019-01-11 22:35:08, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6623
+6640, None, 2019-01-12 10:45:50, open, https://api.github.com/repos/dotnet/aspnetcore/issues/6640
+6649, None, 2019-01-13 17:36:24, open, https://api.github.com/repos/dotnet/aspnetcore/issues/6649
 6669, 2019-02-25 18:19:15, 2019-01-14 17:20:44, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6669
 6674, None, 2019-01-14 18:10:59, open, https://api.github.com/repos/dotnet/aspnetcore/issues/6674
 6679, 2020-05-18 22:13:58, 2019-01-14 19:10:55, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6679
@@ -369,6 +376,7 @@
 6827, 2019-01-18 22:26:44, 2019-01-18 01:02:53, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6827
 6834, 2019-05-22 20:30:32, 2019-01-18 08:58:15, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6834
 6837, 2019-08-30 22:23:35, 2019-01-18 14:23:44, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6837
+6838, None, 2019-01-18 17:04:55, open, https://api.github.com/repos/dotnet/aspnetcore/issues/6838
 6859, 2019-01-22 17:37:19, 2019-01-18 23:18:33, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6859
 6860, 2019-01-22 17:37:19, 2019-01-18 23:21:52, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6860
 6864, 2019-01-23 00:16:18, 2019-01-19 00:20:41, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6864
@@ -382,9 +390,9 @@
 6974, 2019-02-07 20:51:13, 2019-01-24 01:57:05, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/6974
 7011, 2019-03-12 16:28:37, 2019-01-25 07:06:49, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/7011
 7023, 2019-05-24 21:05:24, 2019-01-25 16:18:53, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/7023
+7029, None, 2019-01-25 18:50:59, open, https://api.github.com/repos/dotnet/aspnetcore/issues/7029
 7031, 2019-01-30 22:27:14, 2019-01-25 20:27:02, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/7031
 7073, 2019-08-07 02:45:51, 2019-01-28 23:01:55, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/7073
-7077, None, 2019-01-28 23:25:10, open, https://api.github.com/repos/dotnet/aspnetcore/issues/7077
 7098, 2019-04-24 22:13:30, 2019-01-29 19:14:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/7098
 7102, 2019-02-11 16:01:31, 2019-01-29 19:45:51, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/7102
 7120, 2019-04-22 20:28:03, 2019-01-30 08:52:16, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/7120
@@ -474,7 +482,7 @@
 8079, 2019-03-09 07:49:30, 2019-03-01 16:35:57, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/8079
 8084, 2019-12-11 19:28:06, 2019-03-01 17:35:09, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/8084
 8096, 2019-03-11 17:19:08, 2019-03-01 18:53:17, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/8096
-8110, None, 2019-03-01 21:12:18, open, https://api.github.com/repos/dotnet/aspnetcore/issues/8110
+8110, 2020-11-06 20:03:22, 2019-03-01 21:12:18, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/8110
 8132, 2019-03-27 17:49:34, 2019-03-03 05:09:08, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/8132
 8139, 2019-03-05 19:31:56, 2019-03-03 23:05:08, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/8139
 8142, 2019-03-19 20:54:13, 2019-03-04 01:21:04, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/8142
@@ -551,6 +559,7 @@
 9013, 2019-05-06 22:06:59, 2019-04-02 22:58:40, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9013
 9014, 2020-01-28 18:31:40, 2019-04-02 23:13:32, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9014
 14317, 2020-03-04 23:06:30, 2019-04-03 18:08:33, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/14317
+26990, None, 2019-04-03 19:59:26, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26990
 9061, 2019-10-04 17:21:41, 2019-04-04 08:20:26, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9061
 9083, 2019-04-12 15:26:40, 2019-04-04 21:44:57, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9083
 9090, 2019-04-07 02:46:25, 2019-04-04 22:31:21, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9090
@@ -606,10 +615,13 @@
 9658, 2019-05-15 20:48:35, 2019-04-22 21:24:54, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9658
 9665, 2019-09-17 22:15:38, 2019-04-23 01:19:49, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9665
 9683, 2019-05-23 17:39:54, 2019-04-23 14:13:02, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9683
+9687, None, 2019-04-23 17:28:44, open, https://api.github.com/repos/dotnet/aspnetcore/issues/9687
 9692, 2020-01-23 19:14:13, 2019-04-23 19:42:13, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9692
 9704, 2019-09-20 10:00:33, 2019-04-23 23:39:04, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9704
+9713, None, 2019-04-24 09:11:37, open, https://api.github.com/repos/dotnet/aspnetcore/issues/9713
 9717, 2019-07-22 00:22:48, 2019-04-24 14:39:51, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9717
 9723, 2019-05-21 21:03:30, 2019-04-24 18:49:52, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9723
+9736, None, 2019-04-25 09:44:36, open, https://api.github.com/repos/dotnet/aspnetcore/issues/9736
 9762, 2019-07-30 23:02:18, 2019-04-25 22:33:58, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9762
 9779, 2019-05-06 18:59:38, 2019-04-26 12:32:25, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9779
 9834, 2019-05-17 22:33:36, 2019-04-29 19:15:43, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/9834
@@ -669,11 +681,12 @@
 10732, 2019-06-07 18:46:42, 2019-06-01 15:30:57, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/10732
 10735, 2019-11-13 23:25:28, 2019-06-01 20:55:23, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/10735
 10737, 2019-06-02 20:53:37, 2019-06-02 02:36:59, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/10737
-10762, None, 2019-06-03 10:29:09, open, https://api.github.com/repos/dotnet/aspnetcore/issues/10762
+10762, 2020-11-06 19:52:35, 2019-06-03 10:29:09, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/10762
 10773, None, 2019-06-03 16:21:02, open, https://api.github.com/repos/dotnet/aspnetcore/issues/10773
 10775, 2019-06-04 21:23:07, 2019-06-03 16:27:51, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/10775
 10782, 2020-04-16 05:53:57, 2019-06-03 18:08:28, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/10782
 10811, None, 2019-06-03 21:42:17, open, https://api.github.com/repos/dotnet/aspnetcore/issues/10811
+10826, None, 2019-06-04 05:21:07, open, https://api.github.com/repos/dotnet/aspnetcore/issues/10826
 10842, 2019-07-21 23:01:25, 2019-06-04 15:15:05, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/10842
 10848, 2019-06-21 02:10:53, 2019-06-04 17:20:24, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/10848
 10860, 2020-01-23 19:29:09, 2019-06-04 21:32:30, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/10860
@@ -696,7 +709,7 @@
 10992, None, 2019-06-07 16:44:22, open, https://api.github.com/repos/dotnet/aspnetcore/issues/10992
 10999, 2019-09-24 21:47:14, 2019-06-07 18:54:51, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/10999
 11011, 2019-07-16 20:02:58, 2019-06-08 01:20:59, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11011
-11013, None, 2019-06-08 05:16:53, open, https://api.github.com/repos/dotnet/aspnetcore/issues/11013
+11013, 2020-11-11 07:29:24, 2019-06-08 05:16:53, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11013
 11056, 2019-08-27 14:01:40, 2019-06-10 19:14:42, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11056
 11061, 2019-06-13 22:43:24, 2019-06-10 21:22:21, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11061
 11111, 2019-09-05 16:01:32, 2019-06-11 20:32:56, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11111
@@ -728,7 +741,7 @@
 11305, 2019-07-26 22:34:00, 2019-06-17 22:54:52, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11305
 14324, 2019-11-13 23:25:08, 2019-06-18 08:49:42, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/14324
 11315, 2019-06-19 18:43:08, 2019-06-18 09:37:07, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11315
-11365, None, 2019-06-19 09:05:02, open, https://api.github.com/repos/dotnet/aspnetcore/issues/11365
+11365, 2020-11-10 23:26:31, 2019-06-19 09:05:02, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11365
 11373, 2020-06-22 22:28:39, 2019-06-19 16:55:13, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11373
 11383, 2019-08-19 16:50:55, 2019-06-19 17:58:40, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11383
 11395, 2019-08-12 17:15:02, 2019-06-19 19:56:26, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11395
@@ -765,6 +778,7 @@
 11641, 2019-07-17 16:51:39, 2019-06-27 09:11:30, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11641
 11647, None, 2019-06-27 14:00:20, open, https://api.github.com/repos/dotnet/aspnetcore/issues/11647
 11653, 2019-07-04 09:17:25, 2019-06-27 15:28:27, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11653
+11667, None, 2019-06-27 23:44:14, open, https://api.github.com/repos/dotnet/aspnetcore/issues/11667
 11686, 2019-08-14 19:41:06, 2019-06-28 17:36:41, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11686
 11699, 2019-07-03 23:02:05, 2019-06-28 23:20:20, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11699
 11700, 2019-07-10 16:41:59, 2019-06-28 23:24:53, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/11700
@@ -812,6 +826,7 @@
 12135, 2019-07-18 00:32:32, 2019-07-12 21:36:49, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12135
 12190, 2019-08-02 16:12:37, 2019-07-15 14:43:57, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12190
 12194, None, 2019-07-15 15:43:15, open, https://api.github.com/repos/dotnet/aspnetcore/issues/12194
+12256, None, 2019-07-16 21:52:08, open, https://api.github.com/repos/dotnet/aspnetcore/issues/12256
 12263, 2019-07-19 19:53:42, 2019-07-17 01:16:05, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12263
 12284, 2019-07-21 22:59:11, 2019-07-17 17:07:34, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12284
 12307, 2019-07-29 11:46:05, 2019-07-18 13:06:43, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12307
@@ -821,6 +836,7 @@
 12455, 2019-09-27 21:22:41, 2019-07-22 21:40:21, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12455
 12484, 2020-01-29 21:52:24, 2019-07-23 17:30:01, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12484
 12503, 2019-07-24 15:54:28, 2019-07-24 07:05:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12503
+12519, None, 2019-07-24 16:51:20, open, https://api.github.com/repos/dotnet/aspnetcore/issues/12519
 12541, 2019-09-06 18:35:08, 2019-07-24 22:43:44, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12541
 12543, 2019-07-25 15:47:41, 2019-07-24 23:14:36, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12543
 12566, 2019-08-09 18:31:54, 2019-07-25 11:53:54, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12566
@@ -846,6 +862,7 @@
 12773, 2019-08-01 16:07:04, 2019-07-31 18:24:43, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12773
 12779, 2020-01-06 16:40:42, 2019-07-31 21:28:58, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12779
 12784, 2020-08-07 01:08:32, 2019-07-31 22:31:44, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12784
+12785, None, 2019-07-31 23:29:38, open, https://api.github.com/repos/dotnet/aspnetcore/issues/12785
 12786, 2019-08-04 17:43:04, 2019-07-31 23:33:25, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12786
 12788, 2019-08-07 15:57:46, 2019-08-01 02:57:29, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12788
 12789, 2019-08-06 14:51:53, 2019-08-01 03:08:32, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/12789
@@ -873,6 +890,7 @@
 13115, 2019-08-15 15:58:59, 2019-08-14 03:26:15, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13115
 13119, 2020-05-26 23:00:59, 2019-08-14 11:17:10, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13119
 13120, 2020-03-05 11:56:53, 2019-08-14 11:29:19, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13120
+13121, None, 2019-08-14 11:37:55, open, https://api.github.com/repos/dotnet/aspnetcore/issues/13121
 13128, 2019-09-09 17:08:59, 2019-08-14 15:32:25, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13128
 13162, 2019-08-17 14:12:30, 2019-08-15 10:04:51, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13162
 13181, 2020-02-13 19:01:24, 2019-08-16 00:26:57, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13181
@@ -880,6 +898,7 @@
 13193, None, 2019-08-16 17:58:05, open, https://api.github.com/repos/dotnet/aspnetcore/issues/13193
 13204, 2019-10-31 19:33:50, 2019-08-17 02:40:14, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13204
 13215, 2019-10-07 23:13:03, 2019-08-17 14:45:31, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13215
+13219, None, 2019-08-17 18:54:33, open, https://api.github.com/repos/dotnet/aspnetcore/issues/13219
 13220, 2020-02-13 19:03:48, 2019-08-17 19:59:03, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13220
 13224, 2019-08-17 23:07:27, 2019-08-17 23:06:19, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13224
 13245, None, 2019-08-19 03:27:49, open, https://api.github.com/repos/dotnet/aspnetcore/issues/13245
@@ -893,6 +912,7 @@
 13288, 2019-08-23 12:39:11, 2019-08-20 18:07:32, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13288
 13290, 2020-05-14 22:00:04, 2019-08-20 18:13:08, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13290
 13291, 2019-10-01 02:52:30, 2019-08-20 18:15:45, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13291
+13292, None, 2019-08-20 18:32:40, open, https://api.github.com/repos/dotnet/aspnetcore/issues/13292
 13311, 2019-08-27 23:00:17, 2019-08-21 09:07:05, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13311
 13312, 2020-05-26 23:07:04, 2019-08-21 13:01:21, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13312
 13313, 2019-08-22 01:53:20, 2019-08-21 13:58:02, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13313
@@ -932,6 +952,7 @@
 13778, 2020-04-14 19:45:43, 2019-09-06 19:37:56, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13778
 13782, 2019-09-17 21:33:05, 2019-09-06 22:16:06, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13782
 13797, 2019-09-23 16:43:01, 2019-09-07 16:29:09, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13797
+13805, None, 2019-09-08 00:56:38, open, https://api.github.com/repos/dotnet/aspnetcore/issues/13805
 13831, 2019-09-21 20:01:48, 2019-09-09 15:16:44, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13831
 13856, 2019-09-10 16:28:06, 2019-09-10 14:16:16, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/13856
 14334, 2020-01-22 05:58:51, 2019-09-10 16:50:54, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/14334
@@ -950,6 +971,7 @@
 14139, 2019-10-30 16:38:27, 2019-09-19 09:04:36, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/14139
 14155, 2019-09-23 15:44:42, 2019-09-19 17:07:21, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/14155
 14191, None, 2019-09-20 14:51:46, open, https://api.github.com/repos/dotnet/aspnetcore/issues/14191
+14370, None, 2019-09-24 11:31:17, open, https://api.github.com/repos/dotnet/aspnetcore/issues/14370
 14378, 2019-11-07 00:28:08, 2019-09-24 14:21:28, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/14378
 14396, 2019-10-10 22:12:18, 2019-09-24 20:50:22, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/14396
 14423, None, 2019-09-25 15:35:08, open, https://api.github.com/repos/dotnet/aspnetcore/issues/14423
@@ -970,6 +992,7 @@
 14812, 2019-10-20 13:32:22, 2019-10-08 07:54:06, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/14812
 14813, 2019-10-13 22:23:27, 2019-10-08 09:31:52, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/14813
 14827, 2020-05-27 19:01:35, 2019-10-08 16:04:18, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/14827
+14877, None, 2019-10-10 06:51:44, open, https://api.github.com/repos/dotnet/aspnetcore/issues/14877
 14898, 2019-10-22 22:48:42, 2019-10-10 20:27:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/14898
 14907, None, 2019-10-10 23:56:36, open, https://api.github.com/repos/dotnet/aspnetcore/issues/14907
 14920, 2019-10-11 16:38:47, 2019-10-11 13:46:00, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/14920
@@ -1014,8 +1037,10 @@
 16938, 2019-11-11 16:27:05, 2019-11-09 05:35:07, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/16938
 16960, None, 2019-11-10 19:40:54, open, https://api.github.com/repos/dotnet/aspnetcore/issues/16960
 16987, 2019-11-11 23:32:59, 2019-11-11 18:12:53, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/16987
+17024, None, 2019-11-12 11:13:18, open, https://api.github.com/repos/dotnet/aspnetcore/issues/17024
 17079, 2020-01-15 17:04:38, 2019-11-14 01:13:12, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/17079
 17081, None, 2019-11-14 05:51:27, open, https://api.github.com/repos/dotnet/aspnetcore/issues/17081
+17085, None, 2019-11-14 08:15:09, open, https://api.github.com/repos/dotnet/aspnetcore/issues/17085
 17094, 2020-10-09 14:49:39, 2019-11-14 14:49:43, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/17094
 17101, 2019-11-17 04:58:36, 2019-11-14 18:48:00, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/17101
 17112, 2020-05-26 23:43:00, 2019-11-15 00:19:59, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/17112
@@ -1117,20 +1142,24 @@
 18640, 2020-02-19 23:51:51, 2020-01-28 21:23:18, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/18640
 18641, 2020-03-02 21:28:44, 2020-01-28 21:49:24, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/18641
 18644, None, 2020-01-28 22:42:13, open, https://api.github.com/repos/dotnet/aspnetcore/issues/18644
-18683, None, 2020-01-30 13:18:01, open, https://api.github.com/repos/dotnet/aspnetcore/issues/18683
+18683, 2020-11-09 22:29:34, 2020-01-30 13:18:01, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/18683
 18685, None, 2020-01-30 15:54:51, open, https://api.github.com/repos/dotnet/aspnetcore/issues/18685
 18697, 2020-04-20 18:42:57, 2020-01-30 21:33:29, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/18697
+18699, None, 2020-01-30 22:11:48, open, https://api.github.com/repos/dotnet/aspnetcore/issues/18699
 18721, 2020-02-18 17:01:30, 2020-01-31 19:25:07, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/18721
 18745, 2020-08-20 21:12:33, 2020-02-03 10:08:28, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/18745
 18753, 2020-02-03 18:36:18, 2020-02-03 13:41:22, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/18753
 18757, None, 2020-02-03 16:31:23, open, https://api.github.com/repos/dotnet/aspnetcore/issues/18757
+18787, None, 2020-02-04 18:55:17, open, https://api.github.com/repos/dotnet/aspnetcore/issues/18787
 18814, 2020-02-24 17:03:19, 2020-02-05 10:02:14, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/18814
 18834, None, 2020-02-05 20:55:18, open, https://api.github.com/repos/dotnet/aspnetcore/issues/18834
 18835, 2020-02-07 21:32:21, 2020-02-05 21:09:01, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/18835
 18861, 2020-06-16 20:46:27, 2020-02-06 18:44:46, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/18861
 18862, 2020-03-24 23:33:38, 2020-02-06 18:47:07, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/18862
 18864, 2020-10-16 22:06:24, 2020-02-06 19:19:58, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/18864
+18871, None, 2020-02-07 07:05:40, open, https://api.github.com/repos/dotnet/aspnetcore/issues/18871
 18890, None, 2020-02-07 21:55:44, open, https://api.github.com/repos/dotnet/aspnetcore/issues/18890
+18891, None, 2020-02-07 22:12:03, open, https://api.github.com/repos/dotnet/aspnetcore/issues/18891
 18898, 2020-03-20 17:55:54, 2020-02-08 01:30:26, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/18898
 18913, None, 2020-02-09 11:07:15, open, https://api.github.com/repos/dotnet/aspnetcore/issues/18913
 18951, 2020-04-06 16:11:38, 2020-02-11 11:34:28, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/18951
@@ -1142,6 +1171,8 @@
 19052, None, 2020-02-14 10:53:35, open, https://api.github.com/repos/dotnet/aspnetcore/issues/19052
 19058, 2020-05-06 15:58:35, 2020-02-14 15:55:08, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19058
 19099, 2020-02-19 04:21:26, 2020-02-18 00:13:52, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19099
+19101, None, 2020-02-18 00:56:01, open, https://api.github.com/repos/dotnet/aspnetcore/issues/19101
+19107, None, 2020-02-18 13:48:55, open, https://api.github.com/repos/dotnet/aspnetcore/issues/19107
 19144, 2020-03-13 10:40:59, 2020-02-19 13:44:21, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19144
 19158, None, 2020-02-19 19:16:05, open, https://api.github.com/repos/dotnet/aspnetcore/issues/19158
 19172, 2020-02-20 06:09:52, 2020-02-19 23:48:10, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19172
@@ -1156,11 +1187,14 @@
 19452, None, 2020-02-28 22:28:06, open, https://api.github.com/repos/dotnet/aspnetcore/issues/19452
 19455, None, 2020-02-28 23:21:20, open, https://api.github.com/repos/dotnet/aspnetcore/issues/19455
 19476, 2020-09-11 21:54:06, 2020-03-01 15:05:47, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19476
+19493, None, 2020-03-02 12:21:38, open, https://api.github.com/repos/dotnet/aspnetcore/issues/19493
 19503, 2020-03-09 16:35:41, 2020-03-02 16:29:04, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19503
 19509, None, 2020-03-02 19:01:09, open, https://api.github.com/repos/dotnet/aspnetcore/issues/19509
+19510, None, 2020-03-02 20:50:49, open, https://api.github.com/repos/dotnet/aspnetcore/issues/19510
 19512, 2020-03-19 21:11:55, 2020-03-02 21:15:07, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19512
 19522, 2020-03-26 03:58:49, 2020-03-03 06:20:48, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19522
 19580, 2020-06-22 15:58:56, 2020-03-04 20:29:20, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19580
+19590, None, 2020-03-05 00:24:45, open, https://api.github.com/repos/dotnet/aspnetcore/issues/19590
 19609, 2020-03-06 18:26:44, 2020-03-05 18:09:24, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19609
 19638, None, 2020-03-06 10:28:02, open, https://api.github.com/repos/dotnet/aspnetcore/issues/19638
 19641, None, 2020-03-06 13:16:09, open, https://api.github.com/repos/dotnet/aspnetcore/issues/19641
@@ -1172,7 +1206,7 @@
 19750, 2020-03-27 22:27:32, 2020-03-10 22:32:36, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19750
 19779, 2020-03-31 11:32:25, 2020-03-11 21:21:42, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19779
 19788, None, 2020-03-12 05:10:37, open, https://api.github.com/repos/dotnet/aspnetcore/issues/19788
-19792, None, 2020-03-12 09:57:48, open, https://api.github.com/repos/dotnet/aspnetcore/issues/19792
+19792, 2020-11-06 19:54:31, 2020-03-12 09:57:48, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19792
 19813, 2020-03-13 16:49:44, 2020-03-12 22:30:43, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19813
 19815, 2020-04-15 20:45:35, 2020-03-12 22:49:31, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19815
 19816, 2020-08-30 22:03:32, 2020-03-12 22:53:24, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/19816
@@ -1204,6 +1238,7 @@
 20041, 2020-10-06 12:17:43, 2020-03-20 22:52:57, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/20041
 20055, None, 2020-03-21 20:09:38, open, https://api.github.com/repos/dotnet/aspnetcore/issues/20055
 20074, 2020-03-25 23:14:48, 2020-03-23 17:24:38, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/20074
+20152, None, 2020-03-25 11:26:36, open, https://api.github.com/repos/dotnet/aspnetcore/issues/20152
 20136, 2020-07-15 07:30:11, 2020-03-25 16:29:37, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/20136
 20137, None, 2020-03-25 16:36:36, open, https://api.github.com/repos/dotnet/aspnetcore/issues/20137
 20140, 2020-04-27 18:56:55, 2020-03-25 17:35:06, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/20140
@@ -1255,11 +1290,10 @@
 21029, 2020-05-06 18:09:18, 2020-04-20 20:11:08, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21029
 21036, 2020-04-21 00:57:04, 2020-04-20 22:55:05, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21036
 21070, 2020-07-29 22:39:33, 2020-04-21 20:33:49, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21070
-21071, None, 2020-04-21 20:44:40, open, https://api.github.com/repos/dotnet/aspnetcore/issues/21071
+21071, 2020-11-06 18:19:01, 2020-04-21 20:44:40, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21071
 21090, None, 2020-04-22 11:17:46, open, https://api.github.com/repos/dotnet/aspnetcore/issues/21090
 21098, 2020-04-23 03:13:02, 2020-04-22 16:46:53, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21098
 21115, 2020-04-23 03:13:36, 2020-04-22 21:32:45, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21115
-21121, 2020-11-06 04:04:13, 2020-04-22 23:07:09, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21121
 21124, 2020-04-23 16:38:48, 2020-04-23 00:00:12, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21124
 21127, 2020-04-23 22:11:27, 2020-04-23 00:34:40, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21127
 21139, 2020-04-23 20:46:35, 2020-04-23 14:25:07, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21139
@@ -1274,6 +1308,7 @@
 21298, None, 2020-04-28 21:05:53, open, https://api.github.com/repos/dotnet/aspnetcore/issues/21298
 21302, 2020-04-28 23:21:49, 2020-04-28 22:14:05, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21302
 21309, 2020-05-05 00:26:47, 2020-04-29 00:45:01, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21309
+21344, 2020-11-12 18:43:52, 2020-04-29 21:45:43, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21344
 21346, 2020-07-14 06:50:30, 2020-04-29 23:15:36, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21346
 21376, 2020-08-24 16:28:05, 2020-04-30 19:22:26, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21376
 21384, None, 2020-04-30 22:20:19, open, https://api.github.com/repos/dotnet/aspnetcore/issues/21384
@@ -1283,9 +1318,11 @@
 21448, None, 2020-05-04 00:55:55, open, https://api.github.com/repos/dotnet/aspnetcore/issues/21448
 21453, 2020-06-22 15:59:13, 2020-05-04 08:53:42, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21453
 21464, 2020-06-15 21:46:58, 2020-05-04 16:59:39, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21464
+21480, None, 2020-05-04 21:45:10, open, https://api.github.com/repos/dotnet/aspnetcore/issues/21480
 21482, 2020-10-07 22:57:22, 2020-05-04 22:17:48, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21482
 21486, None, 2020-05-05 00:24:52, open, https://api.github.com/repos/dotnet/aspnetcore/issues/21486
 21494, 2020-06-24 06:40:39, 2020-05-05 10:01:40, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21494
+21498, None, 2020-05-05 13:24:57, open, https://api.github.com/repos/dotnet/aspnetcore/issues/21498
 21510, 2020-08-26 20:56:10, 2020-05-05 19:44:38, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21510
 21522, 2020-10-16 16:22:28, 2020-05-05 22:16:07, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21522
 21537, None, 2020-05-06 14:58:27, open, https://api.github.com/repos/dotnet/aspnetcore/issues/21537
@@ -1297,9 +1334,11 @@
 21610, 2020-05-21 22:00:08, 2020-05-08 05:11:19, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21610
 21611, 2020-05-21 21:57:32, 2020-05-08 05:13:33, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21611
 21631, 2020-06-02 00:55:30, 2020-05-08 20:26:18, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21631
+21656, None, 2020-05-09 15:08:59, open, https://api.github.com/repos/dotnet/aspnetcore/issues/21656
 21694, 2020-05-14 17:02:18, 2020-05-11 14:07:33, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21694
 21714, 2020-05-14 01:21:27, 2020-05-11 20:54:38, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21714
 21733, 2020-05-20 05:32:25, 2020-05-12 10:12:53, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21733
+21744, None, 2020-05-12 17:32:41, open, https://api.github.com/repos/dotnet/aspnetcore/issues/21744
 21782, None, 2020-05-13 13:54:01, open, https://api.github.com/repos/dotnet/aspnetcore/issues/21782
 21812, 2020-10-07 23:25:45, 2020-05-14 07:35:33, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21812
 21827, 2020-05-14 21:35:54, 2020-05-14 15:58:20, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/21827
@@ -1321,7 +1360,10 @@
 22149, 2020-06-01 22:21:19, 2020-05-22 17:43:22, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22149
 22150, 2020-05-26 18:21:29, 2020-05-22 17:47:26, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22150
 22151, 2020-05-26 21:58:56, 2020-05-22 18:07:31, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22151
+22182, None, 2020-05-24 01:14:59, open, https://api.github.com/repos/dotnet/aspnetcore/issues/22182
+22186, None, 2020-05-24 12:39:52, open, https://api.github.com/repos/dotnet/aspnetcore/issues/22186
 22261, None, 2020-05-27 04:38:09, open, https://api.github.com/repos/dotnet/aspnetcore/issues/22261
+22272, None, 2020-05-27 13:37:19, open, https://api.github.com/repos/dotnet/aspnetcore/issues/22272
 22277, 2020-05-28 23:22:34, 2020-05-27 16:59:00, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22277
 22280, 2020-05-29 19:44:41, 2020-05-27 17:36:05, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22280
 22330, 2020-10-16 21:58:01, 2020-05-28 19:37:02, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22330
@@ -1335,6 +1377,7 @@
 22488, None, 2020-06-03 08:59:30, open, https://api.github.com/repos/dotnet/aspnetcore/issues/22488
 22512, None, 2020-06-03 17:18:29, open, https://api.github.com/repos/dotnet/aspnetcore/issues/22512
 22517, 2020-08-19 20:26:23, 2020-06-03 20:14:57, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22517
+22549, None, 2020-06-04 19:15:23, open, https://api.github.com/repos/dotnet/aspnetcore/issues/22549
 22577, 2020-10-16 21:52:36, 2020-06-05 16:59:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22577
 22592, 2020-09-19 16:48:08, 2020-06-05 17:58:23, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22592
 22594, 2020-07-02 20:42:59, 2020-06-05 18:03:24, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22594
@@ -1342,6 +1385,7 @@
 22604, None, 2020-06-05 22:12:13, open, https://api.github.com/repos/dotnet/aspnetcore/issues/22604
 22641, 2020-07-23 18:41:58, 2020-06-07 09:06:38, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22641
 22677, 2020-06-09 02:27:10, 2020-06-08 20:23:25, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22677
+22797, None, 2020-06-09 15:54:22, open, https://api.github.com/repos/dotnet/aspnetcore/issues/22797
 22712, 2020-09-11 13:46:38, 2020-06-09 16:36:46, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22712
 22742, 2020-06-11 23:41:42, 2020-06-09 23:20:41, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22742
 22744, None, 2020-06-09 23:29:53, open, https://api.github.com/repos/dotnet/aspnetcore/issues/22744
@@ -1352,6 +1396,7 @@
 22752, 2020-06-10 03:56:42, 2020-06-10 00:06:47, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22752
 22753, 2020-06-30 19:03:20, 2020-06-10 00:16:28, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22753
 22754, 2020-09-02 05:30:03, 2020-06-10 00:22:30, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22754
+22831, None, 2020-06-10 14:27:45, open, https://api.github.com/repos/dotnet/aspnetcore/issues/22831
 22783, None, 2020-06-10 16:38:02, open, https://api.github.com/repos/dotnet/aspnetcore/issues/22783
 22791, 2020-07-03 01:00:17, 2020-06-10 18:30:16, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22791
 22795, 2020-06-11 06:50:49, 2020-06-10 18:59:02, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/22795
@@ -1404,6 +1449,7 @@
 23562, 2020-07-15 22:10:46, 2020-07-01 10:20:11, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/23562
 23574, 2020-10-16 20:33:15, 2020-07-01 17:58:59, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/23574
 23595, None, 2020-07-02 04:00:43, open, https://api.github.com/repos/dotnet/aspnetcore/issues/23595
+23622, None, 2020-07-02 17:31:14, open, https://api.github.com/repos/dotnet/aspnetcore/issues/23622
 23632, 2020-07-09 22:24:47, 2020-07-02 19:06:22, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/23632
 23648, 2020-07-09 22:25:06, 2020-07-03 00:59:06, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/23648
 23679, 2020-09-11 01:59:59, 2020-07-05 06:44:39, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/23679
@@ -1419,6 +1465,8 @@
 23820, 2020-08-20 23:27:35, 2020-07-09 20:46:08, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/23820
 23831, 2020-07-11 17:01:26, 2020-07-09 23:36:18, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/23831
 23832, 2020-08-26 00:31:06, 2020-07-10 00:03:25, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/23832
+23840, None, 2020-07-10 05:40:55, open, https://api.github.com/repos/dotnet/aspnetcore/issues/23840
+23892, None, 2020-07-13 04:56:44, open, https://api.github.com/repos/dotnet/aspnetcore/issues/23892
 23893, 2020-09-21 22:21:02, 2020-07-13 05:19:45, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/23893
 23894, 2020-10-12 18:26:15, 2020-07-13 05:38:19, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/23894
 23903, 2020-11-06 04:04:14, 2020-07-13 17:36:24, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/23903
@@ -1440,7 +1488,7 @@
 24113, 2020-07-22 22:04:34, 2020-07-17 16:47:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/24113
 24071, None, 2020-07-17 18:06:02, open, https://api.github.com/repos/dotnet/aspnetcore/issues/24071
 24074, 2020-07-28 16:41:15, 2020-07-17 18:44:14, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/24074
-24109, None, 2020-07-20 12:18:06, open, https://api.github.com/repos/dotnet/aspnetcore/issues/24109
+24109, 2020-11-18 09:46:18, 2020-07-20 12:18:06, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/24109
 24117, 2020-07-20 21:20:29, 2020-07-20 16:59:32, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/24117
 24124, None, 2020-07-20 19:42:06, open, https://api.github.com/repos/dotnet/aspnetcore/issues/24124
 24176, None, 2020-07-21 21:21:57, open, https://api.github.com/repos/dotnet/aspnetcore/issues/24176
@@ -1485,7 +1533,7 @@
 24526, 2020-08-28 22:44:09, 2020-08-03 07:40:20, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/24526
 24550, None, 2020-08-03 23:32:53, open, https://api.github.com/repos/dotnet/aspnetcore/issues/24550
 24568, 2020-08-20 17:15:05, 2020-08-04 18:52:05, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/24568
-24590, None, 2020-08-05 18:12:35, open, https://api.github.com/repos/dotnet/aspnetcore/issues/24590
+24590, 2020-11-16 23:44:36, 2020-08-05 18:12:35, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/24590
 24605, 2020-08-26 00:04:10, 2020-08-05 23:50:22, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/24605
 24618, None, 2020-08-06 11:14:26, open, https://api.github.com/repos/dotnet/aspnetcore/issues/24618
 24626, 2020-10-09 18:13:21, 2020-08-06 18:27:15, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/24626
@@ -1507,6 +1555,7 @@
 24913, 2020-08-25 00:00:50, 2020-08-14 17:31:36, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/24913
 24914, 2020-08-18 23:01:26, 2020-08-14 17:34:10, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/24914
 24916, None, 2020-08-14 19:16:42, open, https://api.github.com/repos/dotnet/aspnetcore/issues/24916
+24931, None, 2020-08-15 07:32:27, open, https://api.github.com/repos/dotnet/aspnetcore/issues/24931
 24932, None, 2020-08-15 11:05:08, open, https://api.github.com/repos/dotnet/aspnetcore/issues/24932
 24951, 2020-08-31 17:17:00, 2020-08-17 00:52:54, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/24951
 24965, None, 2020-08-17 14:50:20, open, https://api.github.com/repos/dotnet/aspnetcore/issues/24965
@@ -1522,12 +1571,14 @@
 25102, None, 2020-08-20 21:56:34, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25102
 25104, None, 2020-08-20 22:09:51, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25104
 25105, 2020-09-25 02:14:21, 2020-08-20 22:21:26, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25105
+25107, None, 2020-08-20 22:28:55, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25107
 25113, 2020-08-21 03:17:12, 2020-08-21 00:19:18, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25113
 25115, 2020-08-27 19:39:08, 2020-08-21 00:44:56, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25115
 25116, 2020-08-27 20:46:58, 2020-08-21 00:49:47, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25116
 25144, 2020-09-16 20:11:17, 2020-08-21 23:55:38, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25144
 25149, 2020-08-24 22:04:22, 2020-08-22 07:58:11, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25149
 25152, None, 2020-08-22 15:40:02, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25152
+25163, None, 2020-08-23 13:32:59, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25163
 25197, None, 2020-08-24 14:09:20, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25197
 25220, None, 2020-08-24 23:11:15, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25220
 25224, None, 2020-08-25 02:00:48, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25224
@@ -1537,8 +1588,10 @@
 25266, 2020-08-28 16:03:11, 2020-08-26 07:07:52, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25266
 25267, 2020-08-28 15:44:16, 2020-08-26 07:11:05, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25267
 25282, 2020-08-31 16:08:21, 2020-08-26 19:24:21, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25282
+25287, None, 2020-08-26 20:48:14, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25287
 25296, None, 2020-08-27 00:50:02, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25296
 25297, None, 2020-08-27 01:15:46, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25297
+25311, None, 2020-08-27 13:59:11, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25311
 25312, None, 2020-08-27 14:01:14, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25312
 25313, None, 2020-08-27 14:43:55, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25313
 25317, None, 2020-08-27 18:02:01, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25317
@@ -1555,12 +1608,14 @@
 25380, None, 2020-08-28 22:19:08, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25380
 25385, None, 2020-08-28 23:33:33, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25385
 25431, None, 2020-08-31 00:37:57, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25431
+25454, None, 2020-08-31 17:57:45, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25454
 25463, 2020-09-01 04:19:35, 2020-08-31 19:06:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25463
 25504, 2020-09-01 19:42:14, 2020-09-01 18:01:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25504
 25516, None, 2020-09-01 22:33:27, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25516
 25517, 2020-09-02 19:13:48, 2020-09-01 23:46:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25517
 25519, None, 2020-09-02 00:12:32, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25519
 25535, 2020-09-03 17:31:52, 2020-09-02 16:44:14, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25535
+25612, None, 2020-09-04 11:25:08, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25612
 25617, 2020-09-10 18:47:49, 2020-09-04 13:09:06, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25617
 25635, None, 2020-09-04 22:51:59, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25635
 25648, 2020-09-09 17:46:50, 2020-09-05 17:46:10, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25648
@@ -1571,13 +1626,16 @@
 25694, None, 2020-09-08 16:53:34, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25694
 25724, 2020-09-25 17:31:30, 2020-09-09 09:59:11, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25724
 25726, None, 2020-09-09 12:34:57, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25726
+25729, None, 2020-09-09 14:25:50, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25729
 25731, None, 2020-09-09 15:54:36, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25731
 25738, 2020-09-09 22:39:50, 2020-09-09 18:01:14, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25738
 25740, None, 2020-09-09 18:48:37, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25740
+25751, None, 2020-09-10 00:18:05, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25751
 25764, None, 2020-09-10 14:51:57, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25764
 26196, 2020-10-06 23:25:34, 2020-09-11 22:37:40, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26196
+25831, None, 2020-09-11 23:28:44, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25831
 25857, None, 2020-09-13 09:35:56, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25857
-25867, None, 2020-09-14 10:42:50, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25867
+25867, 2020-11-17 17:24:30, 2020-09-14 10:42:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25867
 25894, 2020-09-15 18:47:27, 2020-09-15 02:06:40, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25894
 25914, None, 2020-09-15 18:36:27, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25914
 25915, 2020-10-15 23:44:45, 2020-09-15 19:15:39, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25915
@@ -1591,6 +1649,7 @@
 25964, 2020-09-17 18:02:19, 2020-09-16 18:01:07, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25964
 25969, 2020-09-17 02:51:14, 2020-09-16 20:23:19, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25969
 25972, None, 2020-09-16 20:39:37, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25972
+25989, None, 2020-09-16 23:54:10, open, https://api.github.com/repos/dotnet/aspnetcore/issues/25989
 25991, 2020-09-22 15:48:41, 2020-09-17 00:04:12, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/25991
 26000, None, 2020-09-17 09:56:19, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26000
 26017, None, 2020-09-17 16:25:14, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26017
@@ -1615,21 +1674,26 @@
 26408, 2020-09-29 16:48:10, 2020-09-28 22:44:03, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26408
 26410, None, 2020-09-28 23:19:21, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26410
 26414, None, 2020-09-29 01:36:26, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26414
+26422, 2020-11-17 22:12:12, 2020-09-29 11:26:54, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26422
 26424, 2020-09-30 16:10:40, 2020-09-29 13:25:09, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26424
 26450, 2020-10-09 16:21:58, 2020-09-30 02:39:17, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26450
 26452, None, 2020-09-30 05:26:12, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26452
+26458, None, 2020-09-30 12:28:12, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26458
 26461, None, 2020-09-30 14:05:36, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26461
 26465, None, 2020-09-30 15:50:55, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26465
 26474, None, 2020-09-30 19:53:59, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26474
 26476, 2020-10-21 18:40:14, 2020-09-30 21:14:50, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26476
 26488, None, 2020-10-01 13:24:34, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26488
-26515, 2020-10-06 21:22:21, 2020-10-01 22:57:35, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26515
+26492, None, 2020-10-01 14:22:13, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26492
+26515, None, 2020-10-01 22:57:35, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26515
 26520, None, 2020-10-01 23:43:20, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26520
 26524, None, 2020-10-02 05:06:15, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26524
 26536, None, 2020-10-02 13:18:40, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26536
 26553, 2020-10-02 23:30:21, 2020-10-02 20:06:29, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26553
 26554, 2020-10-14 20:32:38, 2020-10-02 20:14:10, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26554
 26578, None, 2020-10-03 12:38:03, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26578
+26588, None, 2020-10-04 07:35:54, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26588
+26768, None, 2020-10-04 12:50:31, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26768
 26601, None, 2020-10-05 08:05:48, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26601
 26631, 2020-10-08 05:57:38, 2020-10-06 11:14:10, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26631
 26641, 2020-10-22 01:00:59, 2020-10-06 13:01:38, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26641
@@ -1641,52 +1705,128 @@
 26701, None, 2020-10-08 17:29:13, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26701
 26702, 2020-10-08 19:15:07, 2020-10-08 17:52:51, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26702
 26715, 2020-10-13 23:34:06, 2020-10-08 21:54:24, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26715
-26736, None, 2020-10-09 12:00:11, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26736
+26736, 2020-11-20 20:17:49, 2020-10-09 12:00:11, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26736
 26737, 2020-10-13 20:51:30, 2020-10-09 12:14:24, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26737
 26747, 2020-10-09 21:09:55, 2020-10-09 17:11:56, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26747
 26795, None, 2020-10-11 20:29:53, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26795
+26798, None, 2020-10-11 21:54:54, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26798
 26803, None, 2020-10-12 06:46:03, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26803
 26832, 2020-10-13 01:14:29, 2020-10-12 23:36:32, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26832
-26833, None, 2020-10-12 23:37:01, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26833
+26833, 2020-11-20 21:26:24, 2020-10-12 23:37:01, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26833
 26836, None, 2020-10-13 04:46:52, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26836
 26838, None, 2020-10-13 05:09:19, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26838
+26839, None, 2020-10-13 05:09:56, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26839
 26843, 2020-10-15 05:29:58, 2020-10-13 07:19:42, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26843
 26849, None, 2020-10-13 15:45:46, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26849
 26860, 2020-10-13 20:45:08, 2020-10-13 20:16:12, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26860
 26877, 2020-10-27 19:50:03, 2020-10-14 03:21:24, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26877
 26882, 2020-10-19 15:59:15, 2020-10-14 10:05:02, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26882
 26905, 2020-11-02 19:35:20, 2020-10-14 20:49:06, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/26905
+27305, None, 2020-10-15 08:59:44, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27305
 26966, None, 2020-10-16 12:43:45, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26966
 26971, None, 2020-10-16 16:28:32, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26971
 26975, None, 2020-10-16 20:21:44, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26975
+26985, None, 2020-10-16 22:10:29, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26985
 26987, None, 2020-10-16 22:45:47, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26987
 26989, None, 2020-10-16 23:04:30, open, https://api.github.com/repos/dotnet/aspnetcore/issues/26989
-27046, None, 2020-10-20 00:07:04, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27046
+27023, None, 2020-10-19 04:29:25, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27023
+27035, None, 2020-10-19 14:34:59, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27035
+27046, 2020-11-09 20:08:32, 2020-10-20 00:07:04, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27046
+27052, None, 2020-10-20 08:31:48, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27052
 27062, None, 2020-10-20 14:50:16, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27062
 27068, None, 2020-10-20 17:58:26, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27068
+27070, 2020-11-13 20:29:30, 2020-10-20 18:29:37, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27070
 27081, None, 2020-10-20 22:22:43, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27081
+27095, None, 2020-10-21 15:56:45, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27095
+27097, None, 2020-10-21 16:06:58, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27097
+27105, None, 2020-10-21 20:39:39, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27105
 27109, None, 2020-10-22 05:45:29, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27109
+27111, None, 2020-10-22 07:44:55, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27111
+27126, None, 2020-10-22 22:24:40, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27126
+27127, None, 2020-10-22 22:32:03, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27127
 27129, None, 2020-10-22 22:32:34, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27129
 27131, None, 2020-10-22 22:35:30, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27131
+27132, 2020-11-12 16:23:14, 2020-10-22 22:39:19, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27132
+27135, None, 2020-10-22 22:43:41, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27135
 27136, None, 2020-10-22 22:46:02, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27136
-27137, None, 2020-10-22 22:48:26, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27137
+27137, 2020-11-11 00:30:26, 2020-10-22 22:48:26, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27137
+27138, None, 2020-10-22 22:49:46, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27138
 27140, 2020-11-02 18:35:07, 2020-10-22 23:00:59, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27140
+27141, 2020-11-17 00:01:24, 2020-10-22 23:15:12, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27141
 27142, None, 2020-10-22 23:26:23, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27142
-27145, None, 2020-10-22 23:45:35, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27145
+27145, 2020-11-11 00:36:37, 2020-10-22 23:45:35, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27145
+27147, None, 2020-10-22 23:54:09, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27147
+27148, None, 2020-10-22 23:56:40, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27148
+27150, None, 2020-10-23 00:06:32, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27150
+27151, 2020-11-11 00:28:55, 2020-10-23 00:12:23, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27151
+27152, None, 2020-10-23 00:13:02, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27152
 27162, 2020-10-26 18:12:59, 2020-10-23 07:43:33, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27162
+27163, None, 2020-10-23 09:46:58, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27163
 27182, 2020-10-30 09:36:30, 2020-10-23 22:42:48, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27182
 27194, None, 2020-10-24 14:10:02, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27194
 27197, 2020-10-26 23:49:22, 2020-10-24 17:32:38, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27197
+27198, None, 2020-10-24 18:30:28, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27198
+27202, None, 2020-10-25 12:32:39, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27202
 27218, None, 2020-10-26 19:19:15, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27218
+27232, None, 2020-10-26 22:02:17, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27232
+27250, 2020-11-20 19:43:35, 2020-10-27 14:06:34, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27250
 27257, 2020-10-29 16:37:22, 2020-10-27 17:55:04, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27257
+27263, None, 2020-10-27 19:58:41, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27263
+27298, None, 2020-10-28 17:41:05, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27298
 27310, None, 2020-10-28 20:52:39, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27310
+27368, None, 2020-10-30 10:47:43, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27368
+27382, None, 2020-10-30 17:50:32, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27382
+27407, 2020-11-06 19:34:46, 2020-10-31 07:20:27, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27407
+27417, None, 2020-11-01 17:08:15, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27417
+27429, None, 2020-11-02 08:38:01, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27429
+27438, None, 2020-11-02 16:01:05, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27438
+27443, None, 2020-11-02 17:44:01, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27443
 27447, None, 2020-11-02 18:57:59, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27447
 27449, None, 2020-11-02 19:07:39, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27449
 27452, None, 2020-11-02 20:49:35, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27452
 27453, None, 2020-11-02 20:56:08, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27453
 27454, None, 2020-11-02 21:08:50, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27454
-27494, None, 2020-11-03 14:35:47, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27494
+27469, None, 2020-11-02 22:48:25, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27469
+27494, 2020-11-13 20:11:48, 2020-11-03 14:35:47, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27494
 27502, None, 2020-11-03 20:32:37, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27502
+27509, None, 2020-11-04 00:15:43, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27509
 27518, None, 2020-11-04 12:36:47, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27518
-27548, None, 2020-11-05 15:26:39, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27548
-27585, None, 2020-11-06 17:38:52, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27585
+27523, None, 2020-11-04 16:49:03, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27523
+27548, 2020-11-13 22:26:00, 2020-11-05 15:26:39, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27548
+27578, 2020-11-09 17:20:49, 2020-11-06 14:55:51, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27578
+27585, 2020-11-06 19:09:35, 2020-11-06 17:38:52, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27585
+27593, None, 2020-11-06 21:08:42, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27593
+27620, None, 2020-11-08 04:25:50, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27620
+27630, None, 2020-11-08 21:10:04, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27630
+27647, None, 2020-11-09 17:41:07, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27647
+27652, 2020-11-09 21:54:01, 2020-11-09 20:47:48, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27652
+27655, 2020-11-19 23:00:51, 2020-11-09 21:50:47, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27655
+27658, None, 2020-11-09 23:09:38, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27658
+27659, None, 2020-11-09 23:10:22, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27659
+27660, None, 2020-11-09 23:12:24, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27660
+27664, None, 2020-11-09 23:21:36, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27664
+27666, None, 2020-11-09 23:26:18, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27666
+27667, None, 2020-11-09 23:28:08, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27667
+27669, None, 2020-11-10 00:06:59, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27669
+27728, 2020-11-23 00:29:03, 2020-11-11 17:00:10, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27728
+27740, None, 2020-11-11 20:39:18, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27740
+27743, None, 2020-11-11 21:40:42, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27743
+27752, 2020-11-17 06:56:35, 2020-11-12 00:13:07, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27752
+27756, None, 2020-11-12 01:50:45, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27756
+27762, None, 2020-11-12 04:49:17, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27762
+27768, None, 2020-11-12 08:46:51, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27768
+27776, 2020-11-21 07:46:44, 2020-11-12 16:07:49, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27776
+27777, None, 2020-11-12 16:43:41, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27777
+27782, None, 2020-11-12 18:48:21, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27782
+27804, None, 2020-11-13 10:14:59, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27804
+27825, None, 2020-11-13 19:08:07, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27825
+27831, 2020-11-21 07:47:21, 2020-11-13 20:44:17, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27831
+27836, 2020-11-16 17:07:16, 2020-11-13 23:53:25, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27836
+27873, 2020-11-20 23:02:39, 2020-11-16 08:36:45, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27873
+27878, 2020-11-19 19:40:02, 2020-11-16 11:47:32, closed, https://api.github.com/repos/dotnet/aspnetcore/issues/27878
+27912, None, 2020-11-17 18:52:27, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27912
+27954, None, 2020-11-18 19:02:03, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27954
+27968, None, 2020-11-18 23:30:16, open, https://api.github.com/repos/dotnet/aspnetcore/issues/27968
+28003, None, 2020-11-19 21:35:45, open, https://api.github.com/repos/dotnet/aspnetcore/issues/28003
+28030, None, 2020-11-20 22:17:59, open, https://api.github.com/repos/dotnet/aspnetcore/issues/28030
+28031, None, 2020-11-20 22:28:50, open, https://api.github.com/repos/dotnet/aspnetcore/issues/28031
