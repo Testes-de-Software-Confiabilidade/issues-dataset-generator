@@ -6,16 +6,16 @@ from rq import Worker, Queue, Connection
 
 load_dotenv()
 
-# queue = rq.Queue(
-# 	'redis-15795-db-0',
-# 	connection=redis.Redis.from_url(os.environ.get("REDIS_URL", None))
-# )
-# job = queue.enqueue('example.example', 23)
+listen = ['reliability-tasks']
 
-listen = ['high', 'default', 'low']
 
 redis_url = os.getenv('REDIS_URL', None)
-conn = redis.from_url(redis_url)
+# conn = redis.from_url(redis_url)
+conn = redis.Redis(
+	host='ec2-54-196-49-146.compute-1.amazonaws.com',
+	port=7759,
+	password='p99811caf28e7bba396308430818e8ee491725c3be79bd40f220dbc15a7bfc54f',
+)
 
 if __name__ == '__main__':
     with Connection(conn):
