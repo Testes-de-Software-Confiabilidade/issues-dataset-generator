@@ -1,0 +1,373 @@
+"id", "closed_at", "created_at", "state", "url"
+25, 2013-10-21 18:17:37, 2013-10-21 16:00:27, closed, https://api.github.com/repos/vuejs/vue/issues/25
+36, 2013-11-16 06:32:36, 2013-11-16 03:36:01, closed, https://api.github.com/repos/vuejs/vue/issues/36
+37, 2013-11-16 05:21:22, 2013-11-16 04:06:04, closed, https://api.github.com/repos/vuejs/vue/issues/37
+56, 2014-01-16 22:08:40, 2014-01-16 19:06:51, closed, https://api.github.com/repos/vuejs/vue/issues/56
+76, 2014-02-07 13:30:14, 2014-02-07 12:44:58, closed, https://api.github.com/repos/vuejs/vue/issues/76
+80, 2014-02-08 21:00:50, 2014-02-08 06:27:18, closed, https://api.github.com/repos/vuejs/vue/issues/80
+213, 2014-04-25 19:38:11, 2014-03-30 19:19:40, closed, https://api.github.com/repos/vuejs/vue/issues/213
+232, 2014-04-15 23:07:26, 2014-04-10 21:39:27, closed, https://api.github.com/repos/vuejs/vue/issues/232
+234, 2014-04-25 19:38:17, 2014-04-13 12:19:49, closed, https://api.github.com/repos/vuejs/vue/issues/234
+238, 2014-08-29 15:27:17, 2014-04-14 15:27:14, closed, https://api.github.com/repos/vuejs/vue/issues/238
+242, 2014-04-16 15:26:24, 2014-04-16 14:47:51, closed, https://api.github.com/repos/vuejs/vue/issues/242
+247, 2014-04-25 17:26:52, 2014-04-25 00:28:10, closed, https://api.github.com/repos/vuejs/vue/issues/247
+276, 2014-05-28 16:00:27, 2014-05-24 19:34:47, closed, https://api.github.com/repos/vuejs/vue/issues/276
+288, 2014-06-06 15:31:38, 2014-05-30 19:56:34, closed, https://api.github.com/repos/vuejs/vue/issues/288
+313, 2014-09-28 23:04:51, 2014-06-14 03:57:44, closed, https://api.github.com/repos/vuejs/vue/issues/313
+324, 2014-09-28 23:04:51, 2014-06-22 13:32:37, closed, https://api.github.com/repos/vuejs/vue/issues/324
+398, 2014-09-28 23:04:51, 2014-08-15 14:18:58, closed, https://api.github.com/repos/vuejs/vue/issues/398
+558, 2014-11-24 22:00:44, 2014-11-12 17:55:02, closed, https://api.github.com/repos/vuejs/vue/issues/558
+561, 2014-11-14 22:29:17, 2014-11-14 10:15:27, closed, https://api.github.com/repos/vuejs/vue/issues/561
+569, 2014-11-19 06:59:23, 2014-11-17 09:25:49, closed, https://api.github.com/repos/vuejs/vue/issues/569
+642, 2014-12-23 02:32:53, 2014-12-17 11:09:42, closed, https://api.github.com/repos/vuejs/vue/issues/642
+655, 2015-02-24 22:56:59, 2014-12-25 11:32:39, closed, https://api.github.com/repos/vuejs/vue/issues/655
+728, 2015-04-18 04:14:01, 2015-02-27 09:10:30, closed, https://api.github.com/repos/vuejs/vue/issues/728
+736, 2015-04-17 22:10:19, 2015-03-07 21:33:11, closed, https://api.github.com/repos/vuejs/vue/issues/736
+805, 2015-04-25 22:06:43, 2015-04-24 09:55:50, closed, https://api.github.com/repos/vuejs/vue/issues/805
+806, 2015-04-25 22:08:25, 2015-04-24 13:25:22, closed, https://api.github.com/repos/vuejs/vue/issues/806
+822, 2015-05-07 19:06:06, 2015-05-07 17:44:01, closed, https://api.github.com/repos/vuejs/vue/issues/822
+939, 2015-06-16 14:35:23, 2015-06-14 07:37:54, closed, https://api.github.com/repos/vuejs/vue/issues/939
+946, 2015-06-16 17:07:43, 2015-06-15 09:34:23, closed, https://api.github.com/repos/vuejs/vue/issues/946
+1004, 2015-07-03 17:16:57, 2015-07-03 14:23:31, closed, https://api.github.com/repos/vuejs/vue/issues/1004
+1005, 2015-07-03 16:46:33, 2015-07-03 15:04:30, closed, https://api.github.com/repos/vuejs/vue/issues/1005
+1006, 2015-07-03 18:50:06, 2015-07-03 18:33:30, closed, https://api.github.com/repos/vuejs/vue/issues/1006
+1023, 2015-07-12 15:32:21, 2015-07-07 20:42:11, closed, https://api.github.com/repos/vuejs/vue/issues/1023
+1028, 2015-07-14 13:23:03, 2015-07-09 14:07:58, closed, https://api.github.com/repos/vuejs/vue/issues/1028
+1044, 2015-07-17 17:36:42, 2015-07-14 02:32:03, closed, https://api.github.com/repos/vuejs/vue/issues/1044
+1063, 2015-07-21 09:19:18, 2015-07-20 23:28:09, closed, https://api.github.com/repos/vuejs/vue/issues/1063
+1065, 2015-07-23 15:01:40, 2015-07-21 15:42:35, closed, https://api.github.com/repos/vuejs/vue/issues/1065
+1119, 2015-08-05 18:11:55, 2015-08-05 08:25:09, closed, https://api.github.com/repos/vuejs/vue/issues/1119
+1120, 2015-08-05 13:19:47, 2015-08-05 09:08:59, closed, https://api.github.com/repos/vuejs/vue/issues/1120
+1219, 2015-08-27 15:48:30, 2015-08-27 06:53:28, closed, https://api.github.com/repos/vuejs/vue/issues/1219
+1244, 2015-09-07 16:30:35, 2015-09-03 09:42:55, closed, https://api.github.com/repos/vuejs/vue/issues/1244
+1265, 2015-09-07 19:27:12, 2015-09-07 15:34:22, closed, https://api.github.com/repos/vuejs/vue/issues/1265
+1268, 2015-09-08 15:51:23, 2015-09-08 03:58:51, closed, https://api.github.com/repos/vuejs/vue/issues/1268
+1291, 2015-09-10 18:10:48, 2015-09-10 10:20:23, closed, https://api.github.com/repos/vuejs/vue/issues/1291
+1363, 2015-09-28 17:27:45, 2015-09-27 02:29:58, closed, https://api.github.com/repos/vuejs/vue/issues/1363
+1370, 2015-09-28 20:24:42, 2015-09-28 17:27:17, closed, https://api.github.com/repos/vuejs/vue/issues/1370
+1428, 2015-10-15 19:00:31, 2015-10-15 08:01:22, closed, https://api.github.com/repos/vuejs/vue/issues/1428
+1431, 2015-10-17 01:53:14, 2015-10-16 05:33:53, closed, https://api.github.com/repos/vuejs/vue/issues/1431
+1440, 2015-10-18 02:19:33, 2015-10-17 23:26:13, closed, https://api.github.com/repos/vuejs/vue/issues/1440
+1442, 2015-10-19 12:09:09, 2015-10-19 08:39:43, closed, https://api.github.com/repos/vuejs/vue/issues/1442
+1656, 2015-10-31 13:22:32, 2015-10-30 07:24:02, closed, https://api.github.com/repos/vuejs/vue/issues/1656
+1662, 2015-10-31 20:25:11, 2015-10-31 20:01:29, closed, https://api.github.com/repos/vuejs/vue/issues/1662
+1683, 2015-11-03 17:57:42, 2015-11-03 14:56:39, closed, https://api.github.com/repos/vuejs/vue/issues/1683
+1779, 2015-11-10 18:34:40, 2015-11-09 19:42:53, closed, https://api.github.com/repos/vuejs/vue/issues/1779
+1781, 2015-11-10 21:04:19, 2015-11-10 07:54:51, closed, https://api.github.com/repos/vuejs/vue/issues/1781
+1797, 2015-11-15 20:52:36, 2015-11-12 10:44:25, closed, https://api.github.com/repos/vuejs/vue/issues/1797
+1965, 2015-12-10 00:29:52, 2015-12-04 16:29:00, closed, https://api.github.com/repos/vuejs/vue/issues/1965
+2022, 2015-12-15 17:23:43, 2015-12-14 08:37:07, closed, https://api.github.com/repos/vuejs/vue/issues/2022
+2163, 2016-01-14 19:41:07, 2016-01-14 17:13:27, closed, https://api.github.com/repos/vuejs/vue/issues/2163
+2206, 2016-01-29 02:16:07, 2016-01-21 15:53:41, closed, https://api.github.com/repos/vuejs/vue/issues/2206
+2312, 2016-02-28 02:59:39, 2016-02-08 13:44:27, closed, https://api.github.com/repos/vuejs/vue/issues/2312
+2393, 2016-02-28 04:53:44, 2016-02-25 10:54:33, closed, https://api.github.com/repos/vuejs/vue/issues/2393
+2396, 2016-02-28 07:01:44, 2016-02-25 14:29:00, closed, https://api.github.com/repos/vuejs/vue/issues/2396
+2400, 2016-02-28 07:53:21, 2016-02-25 23:53:15, closed, https://api.github.com/repos/vuejs/vue/issues/2400
+2424, 2016-03-05 00:21:27, 2016-03-04 06:13:33, closed, https://api.github.com/repos/vuejs/vue/issues/2424
+2426, 2016-03-04 17:52:33, 2016-03-04 17:47:56, closed, https://api.github.com/repos/vuejs/vue/issues/2426
+2537, 2016-03-23 05:10:13, 2016-03-23 03:08:10, closed, https://api.github.com/repos/vuejs/vue/issues/2537
+2587, 2016-03-30 19:59:01, 2016-03-29 22:53:08, closed, https://api.github.com/repos/vuejs/vue/issues/2587
+2592, 2016-03-30 16:24:49, 2016-03-30 13:26:03, closed, https://api.github.com/repos/vuejs/vue/issues/2592
+2593, 2016-03-30 20:12:11, 2016-03-30 15:05:22, closed, https://api.github.com/repos/vuejs/vue/issues/2593
+2639, 2016-05-06 19:44:45, 2016-04-08 02:57:35, closed, https://api.github.com/repos/vuejs/vue/issues/2639
+2657, 2016-04-13 22:51:17, 2016-04-12 13:06:00, closed, https://api.github.com/repos/vuejs/vue/issues/2657
+2666, 2016-04-15 18:05:17, 2016-04-13 17:25:55, closed, https://api.github.com/repos/vuejs/vue/issues/2666
+2670, 2016-04-15 04:07:16, 2016-04-14 12:10:46, closed, https://api.github.com/repos/vuejs/vue/issues/2670
+2687, 2016-04-18 17:20:53, 2016-04-18 10:00:33, closed, https://api.github.com/repos/vuejs/vue/issues/2687
+2707, 2016-04-23 11:21:24, 2016-04-22 12:04:37, closed, https://api.github.com/repos/vuejs/vue/issues/2707
+2821, 2016-05-10 18:26:04, 2016-05-09 13:24:16, closed, https://api.github.com/repos/vuejs/vue/issues/2821
+2831, 2016-05-10 19:36:25, 2016-05-09 23:39:41, closed, https://api.github.com/repos/vuejs/vue/issues/2831
+2837, 2016-05-10 17:02:58, 2016-05-10 08:46:39, closed, https://api.github.com/repos/vuejs/vue/issues/2837
+2852, 2016-05-11 21:43:47, 2016-05-11 21:01:40, closed, https://api.github.com/repos/vuejs/vue/issues/2852
+2888, 2016-05-17 15:43:38, 2016-05-17 15:14:39, closed, https://api.github.com/repos/vuejs/vue/issues/2888
+2972, 2016-06-04 14:21:43, 2016-05-30 12:49:00, closed, https://api.github.com/repos/vuejs/vue/issues/2972
+2988, 2016-06-02 17:45:02, 2016-05-31 23:42:11, closed, https://api.github.com/repos/vuejs/vue/issues/2988
+3022, 2016-06-06 06:59:01, 2016-06-02 23:53:51, closed, https://api.github.com/repos/vuejs/vue/issues/3022
+3029, 2016-06-14 19:32:07, 2016-06-03 12:17:33, closed, https://api.github.com/repos/vuejs/vue/issues/3029
+3062, 2016-06-16 22:16:35, 2016-06-12 15:01:50, closed, https://api.github.com/repos/vuejs/vue/issues/3062
+3078, 2016-06-14 18:16:45, 2016-06-14 12:37:29, closed, https://api.github.com/repos/vuejs/vue/issues/3078
+3079, 2016-06-16 17:29:40, 2016-06-14 18:14:01, closed, https://api.github.com/repos/vuejs/vue/issues/3079
+3133, 2016-06-22 14:30:08, 2016-06-22 02:43:59, closed, https://api.github.com/repos/vuejs/vue/issues/3133
+3140, 2016-06-23 01:43:27, 2016-06-22 21:26:29, closed, https://api.github.com/repos/vuejs/vue/issues/3140
+3155, 2016-06-27 15:17:12, 2016-06-26 11:49:47, closed, https://api.github.com/repos/vuejs/vue/issues/3155
+3157, 2016-06-27 00:02:52, 2016-06-26 16:36:02, closed, https://api.github.com/repos/vuejs/vue/issues/3157
+3176, 2016-06-29 16:02:52, 2016-06-29 08:24:36, closed, https://api.github.com/repos/vuejs/vue/issues/3176
+3179, 2016-06-29 16:24:27, 2016-06-29 09:48:00, closed, https://api.github.com/repos/vuejs/vue/issues/3179
+3183, 2016-07-01 04:29:58, 2016-06-29 21:45:32, closed, https://api.github.com/repos/vuejs/vue/issues/3183
+3184, 2016-07-02 15:02:14, 2016-06-29 22:29:25, closed, https://api.github.com/repos/vuejs/vue/issues/3184
+3197, 2018-04-17 21:38:05, 2016-06-30 16:54:52, closed, https://api.github.com/repos/vuejs/vue/issues/3197
+3204, 2016-07-06 00:09:45, 2016-07-01 08:17:10, closed, https://api.github.com/repos/vuejs/vue/issues/3204
+3210, 2016-09-23 15:03:17, 2016-07-02 12:24:43, closed, https://api.github.com/repos/vuejs/vue/issues/3210
+3219, 2016-07-04 17:51:17, 2016-07-04 06:31:43, closed, https://api.github.com/repos/vuejs/vue/issues/3219
+3243, 2016-07-07 20:07:50, 2016-07-07 16:08:14, closed, https://api.github.com/repos/vuejs/vue/issues/3243
+3247, 2016-07-08 22:07:50, 2016-07-08 21:41:56, closed, https://api.github.com/repos/vuejs/vue/issues/3247
+3252, 2016-07-14 23:26:24, 2016-07-10 03:13:10, closed, https://api.github.com/repos/vuejs/vue/issues/3252
+3259, 2016-07-12 20:30:36, 2016-07-11 16:22:07, closed, https://api.github.com/repos/vuejs/vue/issues/3259
+3269, 2016-07-14 22:24:53, 2016-07-13 03:55:36, closed, https://api.github.com/repos/vuejs/vue/issues/3269
+3273, 2016-07-22 17:19:31, 2016-07-13 22:44:44, closed, https://api.github.com/repos/vuejs/vue/issues/3273
+3280, 2018-04-17 21:38:14, 2016-07-15 04:42:34, closed, https://api.github.com/repos/vuejs/vue/issues/3280
+3296, 2016-07-20 14:11:45, 2016-07-20 05:32:02, closed, https://api.github.com/repos/vuejs/vue/issues/3296
+3306, 2016-07-26 03:28:12, 2016-07-21 16:37:23, closed, https://api.github.com/repos/vuejs/vue/issues/3306
+3323, 2018-04-17 21:38:26, 2016-07-25 21:12:52, closed, https://api.github.com/repos/vuejs/vue/issues/3323
+3324, 2016-07-25 23:38:59, 2016-07-25 21:26:50, closed, https://api.github.com/repos/vuejs/vue/issues/3324
+3325, 2016-07-26 19:54:01, 2016-07-26 05:16:57, closed, https://api.github.com/repos/vuejs/vue/issues/3325
+3327, 2016-07-26 19:54:01, 2016-07-26 15:08:47, closed, https://api.github.com/repos/vuejs/vue/issues/3327
+3354, 2016-07-31 21:30:18, 2016-07-29 18:37:33, closed, https://api.github.com/repos/vuejs/vue/issues/3354
+3376, 2016-08-02 16:17:58, 2016-08-02 15:07:37, closed, https://api.github.com/repos/vuejs/vue/issues/3376
+3382, 2018-04-17 21:38:44, 2016-08-03 15:30:52, closed, https://api.github.com/repos/vuejs/vue/issues/3382
+3383, 2016-08-03 20:42:57, 2016-08-03 18:10:04, closed, https://api.github.com/repos/vuejs/vue/issues/3383
+3400, 2016-08-07 05:38:44, 2016-08-07 03:09:25, closed, https://api.github.com/repos/vuejs/vue/issues/3400
+3403, 2016-08-08 02:29:51, 2016-08-08 01:37:23, closed, https://api.github.com/repos/vuejs/vue/issues/3403
+3472, 2016-08-24 20:45:29, 2016-08-18 09:39:55, closed, https://api.github.com/repos/vuejs/vue/issues/3472
+3481, 2016-08-19 19:16:50, 2016-08-19 04:45:46, closed, https://api.github.com/repos/vuejs/vue/issues/3481
+3506, 2016-08-27 21:14:32, 2016-08-23 15:27:39, closed, https://api.github.com/repos/vuejs/vue/issues/3506
+3510, 2018-04-17 21:37:53, 2016-08-24 03:19:15, closed, https://api.github.com/repos/vuejs/vue/issues/3510
+3516, 2016-08-26 22:29:07, 2016-08-24 15:37:28, closed, https://api.github.com/repos/vuejs/vue/issues/3516
+3518, 2016-08-26 22:23:26, 2016-08-25 04:59:45, closed, https://api.github.com/repos/vuejs/vue/issues/3518
+3526, 2016-08-26 22:56:43, 2016-08-25 16:09:56, closed, https://api.github.com/repos/vuejs/vue/issues/3526
+3573, 2017-02-08 11:21:18, 2016-08-31 08:29:20, closed, https://api.github.com/repos/vuejs/vue/issues/3573
+3603, 2016-09-06 07:33:46, 2016-09-06 03:31:04, closed, https://api.github.com/repos/vuejs/vue/issues/3603
+3610, 2016-09-09 11:55:24, 2016-09-06 20:59:17, closed, https://api.github.com/repos/vuejs/vue/issues/3610
+3616, 2016-09-08 08:49:30, 2016-09-07 13:01:14, closed, https://api.github.com/repos/vuejs/vue/issues/3616
+3657, 2016-09-11 10:18:07, 2016-09-10 22:10:49, closed, https://api.github.com/repos/vuejs/vue/issues/3657
+3667, 2016-09-13 18:20:42, 2016-09-13 15:59:42, closed, https://api.github.com/repos/vuejs/vue/issues/3667
+3668, 2016-09-23 14:45:40, 2016-09-13 17:12:37, closed, https://api.github.com/repos/vuejs/vue/issues/3668
+3673, 2016-09-14 15:35:47, 2016-09-14 07:58:54, closed, https://api.github.com/repos/vuejs/vue/issues/3673
+3689, 2016-09-23 21:54:42, 2016-09-17 18:10:13, closed, https://api.github.com/repos/vuejs/vue/issues/3689
+3730, 2016-09-23 18:52:35, 2016-09-23 08:06:42, closed, https://api.github.com/repos/vuejs/vue/issues/3730
+3819, 2016-09-30 18:23:08, 2016-09-30 09:09:40, closed, https://api.github.com/repos/vuejs/vue/issues/3819
+3821, 2018-04-17 21:38:51, 2016-09-30 17:54:24, closed, https://api.github.com/repos/vuejs/vue/issues/3821
+3824, 2016-10-05 19:13:24, 2016-10-01 13:51:40, closed, https://api.github.com/repos/vuejs/vue/issues/3824
+3848, 2016-10-12 00:49:14, 2016-10-04 11:59:04, closed, https://api.github.com/repos/vuejs/vue/issues/3848
+3852, 2016-10-11 01:24:30, 2016-10-04 22:57:50, closed, https://api.github.com/repos/vuejs/vue/issues/3852
+3872, 2016-10-11 02:41:20, 2016-10-08 04:05:57, closed, https://api.github.com/repos/vuejs/vue/issues/3872
+3882, 2016-10-12 21:43:12, 2016-10-09 11:49:40, closed, https://api.github.com/repos/vuejs/vue/issues/3882
+3883, 2016-10-11 02:55:18, 2016-10-09 12:15:20, closed, https://api.github.com/repos/vuejs/vue/issues/3883
+3899, 2016-10-13 09:05:43, 2016-10-11 04:19:07, closed, https://api.github.com/repos/vuejs/vue/issues/3899
+3913, 2016-10-12 21:12:23, 2016-10-12 08:25:42, closed, https://api.github.com/repos/vuejs/vue/issues/3913
+3917, 2016-10-12 17:26:42, 2016-10-12 13:30:39, closed, https://api.github.com/repos/vuejs/vue/issues/3917
+3935, 2016-10-13 18:53:14, 2016-10-13 17:13:08, closed, https://api.github.com/repos/vuejs/vue/issues/3935
+3940, 2016-10-14 13:27:54, 2016-10-14 03:06:48, closed, https://api.github.com/repos/vuejs/vue/issues/3940
+3957, 2016-11-02 19:51:03, 2016-10-16 17:41:20, closed, https://api.github.com/repos/vuejs/vue/issues/3957
+3958, 2016-10-22 06:57:32, 2016-10-16 19:26:22, closed, https://api.github.com/repos/vuejs/vue/issues/3958
+3964, 2016-11-03 02:34:45, 2016-10-17 10:20:51, closed, https://api.github.com/repos/vuejs/vue/issues/3964
+3973, 2016-10-22 08:27:44, 2016-10-18 12:17:03, closed, https://api.github.com/repos/vuejs/vue/issues/3973
+3979, 2016-10-19 11:41:09, 2016-10-18 21:59:05, closed, https://api.github.com/repos/vuejs/vue/issues/3979
+4012, 2016-11-03 04:53:53, 2016-10-22 18:07:15, closed, https://api.github.com/repos/vuejs/vue/issues/4012
+4018, 2016-11-01 15:50:22, 2016-10-23 10:52:21, closed, https://api.github.com/repos/vuejs/vue/issues/4018
+4055, 2016-11-04 13:38:53, 2016-10-28 17:26:09, closed, https://api.github.com/repos/vuejs/vue/issues/4055
+4071, 2016-10-31 06:17:18, 2016-10-31 05:51:34, closed, https://api.github.com/repos/vuejs/vue/issues/4071
+4107, 2016-11-04 20:22:59, 2016-11-04 00:05:38, closed, https://api.github.com/repos/vuejs/vue/issues/4107
+4143, 2016-11-07 16:33:37, 2016-11-07 04:50:12, closed, https://api.github.com/repos/vuejs/vue/issues/4143
+4209, 2016-11-16 04:07:55, 2016-11-16 03:06:58, closed, https://api.github.com/repos/vuejs/vue/issues/4209
+4227, 2016-11-17 16:25:54, 2016-11-17 04:24:56, closed, https://api.github.com/repos/vuejs/vue/issues/4227
+4237, 2016-11-19 01:38:42, 2016-11-17 17:49:32, closed, https://api.github.com/repos/vuejs/vue/issues/4237
+4266, 2016-11-22 14:22:21, 2016-11-21 12:44:16, closed, https://api.github.com/repos/vuejs/vue/issues/4266
+4268, 2016-11-21 15:30:00, 2016-11-21 13:24:25, closed, https://api.github.com/repos/vuejs/vue/issues/4268
+4284, 2016-11-23 18:18:52, 2016-11-23 04:27:28, closed, https://api.github.com/repos/vuejs/vue/issues/4284
+4315, 2016-11-25 17:41:58, 2016-11-24 14:48:20, closed, https://api.github.com/repos/vuejs/vue/issues/4315
+4339, 2016-12-01 04:29:14, 2016-11-29 19:02:57, closed, https://api.github.com/repos/vuejs/vue/issues/4339
+4346, 2016-11-30 18:53:20, 2016-11-30 13:39:06, closed, https://api.github.com/repos/vuejs/vue/issues/4346
+4392, 2016-12-08 15:56:34, 2016-12-05 21:39:15, closed, https://api.github.com/repos/vuejs/vue/issues/4392
+4393, 2016-12-08 17:26:23, 2016-12-06 07:24:45, closed, https://api.github.com/repos/vuejs/vue/issues/4393
+4432, 2016-12-11 15:16:23, 2016-12-10 06:35:02, closed, https://api.github.com/repos/vuejs/vue/issues/4432
+4484, 2016-12-21 21:08:48, 2016-12-15 07:25:26, closed, https://api.github.com/repos/vuejs/vue/issues/4484
+4514, 2016-12-21 21:22:55, 2016-12-19 09:44:24, closed, https://api.github.com/repos/vuejs/vue/issues/4514
+4521, 2016-12-22 03:35:31, 2016-12-20 05:27:33, closed, https://api.github.com/repos/vuejs/vue/issues/4521
+4530, 2016-12-23 03:33:04, 2016-12-21 03:10:07, closed, https://api.github.com/repos/vuejs/vue/issues/4530
+4533, 2016-12-23 04:40:18, 2016-12-21 10:25:54, closed, https://api.github.com/repos/vuejs/vue/issues/4533
+4535, 2016-12-23 02:17:41, 2016-12-21 12:35:21, closed, https://api.github.com/repos/vuejs/vue/issues/4535
+4584, 2016-12-27 21:13:45, 2016-12-27 17:20:39, closed, https://api.github.com/repos/vuejs/vue/issues/4584
+4590, 2017-01-12 23:25:27, 2016-12-28 07:05:36, closed, https://api.github.com/repos/vuejs/vue/issues/4590
+4620, 2017-01-04 19:43:53, 2016-12-31 09:04:33, closed, https://api.github.com/repos/vuejs/vue/issues/4620
+4650, 2017-01-13 16:49:59, 2017-01-04 19:24:39, closed, https://api.github.com/repos/vuejs/vue/issues/4650
+4655, 2017-01-13 17:14:28, 2017-01-05 09:21:12, closed, https://api.github.com/repos/vuejs/vue/issues/4655
+4690, 2017-01-11 20:38:41, 2017-01-11 09:40:31, closed, https://api.github.com/repos/vuejs/vue/issues/4690
+4702, 2017-01-16 23:00:56, 2017-01-12 19:34:37, closed, https://api.github.com/repos/vuejs/vue/issues/4702
+4746, None, 2017-01-18 23:54:27, open, https://api.github.com/repos/vuejs/vue/issues/4746
+4755, 2017-01-19 18:36:20, 2017-01-19 13:24:49, closed, https://api.github.com/repos/vuejs/vue/issues/4755
+4758, 2017-01-20 14:42:55, 2017-01-20 03:42:42, closed, https://api.github.com/repos/vuejs/vue/issues/4758
+4767, 2017-01-22 18:01:10, 2017-01-22 14:08:40, closed, https://api.github.com/repos/vuejs/vue/issues/4767
+4774, 2017-01-23 16:43:14, 2017-01-23 16:08:24, closed, https://api.github.com/repos/vuejs/vue/issues/4774
+4779, 2017-01-24 16:04:48, 2017-01-24 08:37:43, closed, https://api.github.com/repos/vuejs/vue/issues/4779
+4792, 2017-01-26 14:58:47, 2017-01-26 09:14:19, closed, https://api.github.com/repos/vuejs/vue/issues/4792
+4838, 2017-02-14 18:30:14, 2017-02-02 01:12:44, closed, https://api.github.com/repos/vuejs/vue/issues/4838
+4846, 2017-02-14 22:09:46, 2017-02-02 17:20:56, closed, https://api.github.com/repos/vuejs/vue/issues/4846
+4864, 2017-02-06 10:27:46, 2017-02-06 09:17:50, closed, https://api.github.com/repos/vuejs/vue/issues/4864
+4872, 2017-02-14 18:40:59, 2017-02-06 22:13:59, closed, https://api.github.com/repos/vuejs/vue/issues/4872
+4880, 2017-02-09 14:25:45, 2017-02-08 07:08:38, closed, https://api.github.com/repos/vuejs/vue/issues/4880
+4900, 2017-02-15 14:59:55, 2017-02-10 08:26:57, closed, https://api.github.com/repos/vuejs/vue/issues/4900
+4915, 2017-02-23 19:14:27, 2017-02-13 03:36:17, closed, https://api.github.com/repos/vuejs/vue/issues/4915
+4951, 2017-02-17 14:53:53, 2017-02-17 05:09:04, closed, https://api.github.com/repos/vuejs/vue/issues/4951
+4976, 2017-02-23 23:11:23, 2017-02-20 16:29:55, closed, https://api.github.com/repos/vuejs/vue/issues/4976
+4985, 2017-02-24 20:36:31, 2017-02-21 15:05:25, closed, https://api.github.com/repos/vuejs/vue/issues/4985
+5002, 2017-02-24 17:18:15, 2017-02-24 14:08:48, closed, https://api.github.com/repos/vuejs/vue/issues/5002
+5043, 2017-03-01 16:01:25, 2017-03-01 09:01:02, closed, https://api.github.com/repos/vuejs/vue/issues/5043
+5097, 2017-03-08 04:28:46, 2017-03-05 20:01:31, closed, https://api.github.com/repos/vuejs/vue/issues/5097
+5120, 2017-03-08 03:28:11, 2017-03-07 11:13:58, closed, https://api.github.com/repos/vuejs/vue/issues/5120
+5191, 2017-03-21 07:21:05, 2017-03-14 12:02:02, closed, https://api.github.com/repos/vuejs/vue/issues/5191
+5209, 2017-03-17 03:37:38, 2017-03-16 15:47:38, closed, https://api.github.com/repos/vuejs/vue/issues/5209
+5223, 2017-03-21 07:22:34, 2017-03-19 16:58:28, closed, https://api.github.com/repos/vuejs/vue/issues/5223
+5239, 2017-03-21 09:50:06, 2017-03-21 09:29:56, closed, https://api.github.com/repos/vuejs/vue/issues/5239
+5266, 2017-03-24 03:56:36, 2017-03-23 20:57:31, closed, https://api.github.com/repos/vuejs/vue/issues/5266
+5318, 2017-04-03 06:14:13, 2017-03-29 12:45:04, closed, https://api.github.com/repos/vuejs/vue/issues/5318
+5330, 2017-04-03 06:43:45, 2017-03-30 08:53:30, closed, https://api.github.com/repos/vuejs/vue/issues/5330
+5346, 2017-04-03 07:32:32, 2017-03-31 17:33:32, closed, https://api.github.com/repos/vuejs/vue/issues/5346
+5615, 2017-05-09 15:26:16, 2017-05-05 12:47:05, closed, https://api.github.com/repos/vuejs/vue/issues/5615
+5618, 2017-05-09 15:21:52, 2017-05-05 22:50:10, closed, https://api.github.com/repos/vuejs/vue/issues/5618
+5635, 2017-05-09 15:35:25, 2017-05-09 04:45:44, closed, https://api.github.com/repos/vuejs/vue/issues/5635
+5760, 2017-06-13 01:54:13, 2017-05-26 11:56:26, closed, https://api.github.com/repos/vuejs/vue/issues/5760
+5837, None, 2017-06-07 03:35:53, open, https://api.github.com/repos/vuejs/vue/issues/5837
+5888, 2017-06-16 18:03:40, 2017-06-15 07:45:29, closed, https://api.github.com/repos/vuejs/vue/issues/5888
+5902, 2017-06-17 08:45:44, 2017-06-17 02:26:47, closed, https://api.github.com/repos/vuejs/vue/issues/5902
+5941, 2017-06-29 04:37:07, 2017-06-21 04:57:57, closed, https://api.github.com/repos/vuejs/vue/issues/5941
+5975, 2017-06-29 04:38:17, 2017-06-26 09:24:55, closed, https://api.github.com/repos/vuejs/vue/issues/5975
+5992, 2017-07-10 13:42:01, 2017-06-28 07:19:05, closed, https://api.github.com/repos/vuejs/vue/issues/5992
+6006, 2017-07-05 01:17:36, 2017-06-30 17:36:53, closed, https://api.github.com/repos/vuejs/vue/issues/6006
+6066, 2017-07-10 13:35:06, 2017-07-10 12:44:32, closed, https://api.github.com/repos/vuejs/vue/issues/6066
+6069, 2017-07-11 05:06:36, 2017-07-11 04:07:50, closed, https://api.github.com/repos/vuejs/vue/issues/6069
+6076, 2017-07-12 09:56:36, 2017-07-12 09:36:52, closed, https://api.github.com/repos/vuejs/vue/issues/6076
+6150, 2017-07-19 22:09:22, 2017-07-18 10:43:54, closed, https://api.github.com/repos/vuejs/vue/issues/6150
+6170, 2017-07-20 04:50:47, 2017-07-20 04:34:17, closed, https://api.github.com/repos/vuejs/vue/issues/6170
+6209, 2017-08-29 15:17:44, 2017-07-25 09:44:53, closed, https://api.github.com/repos/vuejs/vue/issues/6209
+6252, 2017-08-29 16:24:05, 2017-07-29 15:19:43, closed, https://api.github.com/repos/vuejs/vue/issues/6252
+6256, 2017-08-29 20:09:27, 2017-07-30 12:35:59, closed, https://api.github.com/repos/vuejs/vue/issues/6256
+6263, 2017-08-29 20:59:39, 2017-08-01 07:51:54, closed, https://api.github.com/repos/vuejs/vue/issues/6263
+6345, 2017-08-29 21:32:47, 2017-08-11 04:28:12, closed, https://api.github.com/repos/vuejs/vue/issues/6345
+6372, 2017-08-29 22:47:32, 2017-08-15 07:07:15, closed, https://api.github.com/repos/vuejs/vue/issues/6372
+6436, 2017-09-05 20:01:52, 2017-08-23 18:05:14, closed, https://api.github.com/repos/vuejs/vue/issues/6436
+6455, 2017-08-29 22:55:12, 2017-08-26 03:06:43, closed, https://api.github.com/repos/vuejs/vue/issues/6455
+6466, 2017-09-12 23:56:28, 2017-08-28 14:18:27, closed, https://api.github.com/repos/vuejs/vue/issues/6466
+6519, 2017-09-07 02:25:03, 2017-09-05 22:47:41, closed, https://api.github.com/repos/vuejs/vue/issues/6519
+6552, 2017-09-12 21:26:17, 2017-09-08 14:12:11, closed, https://api.github.com/repos/vuejs/vue/issues/6552
+6566, 2017-10-05 04:53:06, 2017-09-11 10:03:17, closed, https://api.github.com/repos/vuejs/vue/issues/6566
+6572, 2017-09-13 03:23:39, 2017-09-11 19:15:31, closed, https://api.github.com/repos/vuejs/vue/issues/6572
+6642, 2017-10-02 21:36:16, 2017-09-19 08:20:06, closed, https://api.github.com/repos/vuejs/vue/issues/6642
+6687, 2017-11-16 14:29:27, 2017-09-25 11:21:33, closed, https://api.github.com/repos/vuejs/vue/issues/6687
+6759, 2017-10-09 15:48:39, 2017-10-09 07:35:43, closed, https://api.github.com/repos/vuejs/vue/issues/6759
+6800, 2017-10-13 12:55:03, 2017-10-13 10:15:19, closed, https://api.github.com/repos/vuejs/vue/issues/6800
+6903, 2017-11-03 02:11:25, 2017-10-25 01:37:54, closed, https://api.github.com/repos/vuejs/vue/issues/6903
+6907, 2017-10-26 16:44:16, 2017-10-25 11:01:29, closed, https://api.github.com/repos/vuejs/vue/issues/6907
+6908, 2017-10-26 16:08:24, 2017-10-25 11:19:22, closed, https://api.github.com/repos/vuejs/vue/issues/6908
+6915, 2017-10-26 16:00:27, 2017-10-25 17:44:58, closed, https://api.github.com/repos/vuejs/vue/issues/6915
+6918, 2017-11-02 21:09:30, 2017-10-25 20:37:52, closed, https://api.github.com/repos/vuejs/vue/issues/6918
+6929, None, 2017-10-26 10:25:53, open, https://api.github.com/repos/vuejs/vue/issues/6929
+6938, 2017-11-17 15:31:08, 2017-10-27 07:40:35, closed, https://api.github.com/repos/vuejs/vue/issues/6938
+6945, 2017-11-02 21:11:59, 2017-10-27 19:46:36, closed, https://api.github.com/repos/vuejs/vue/issues/6945
+6980, 2017-11-01 12:38:09, 2017-10-31 13:35:18, closed, https://api.github.com/repos/vuejs/vue/issues/6980
+6986, 2017-11-03 19:31:10, 2017-11-01 21:28:46, closed, https://api.github.com/repos/vuejs/vue/issues/6986
+6996, 2017-11-03 20:46:11, 2017-11-03 16:09:37, closed, https://api.github.com/repos/vuejs/vue/issues/6996
+6997, 2017-11-03 19:40:48, 2017-11-03 16:26:36, closed, https://api.github.com/repos/vuejs/vue/issues/6997
+7063, 2017-11-16 16:20:10, 2017-11-15 10:14:33, closed, https://api.github.com/repos/vuejs/vue/issues/7063
+7105, 2017-11-22 20:26:51, 2017-11-22 11:24:03, closed, https://api.github.com/repos/vuejs/vue/issues/7105
+7191, 2017-12-06 14:11:50, 2017-12-06 12:44:37, closed, https://api.github.com/repos/vuejs/vue/issues/7191
+7223, 2017-12-12 22:06:12, 2017-12-12 01:20:35, closed, https://api.github.com/repos/vuejs/vue/issues/7223
+7282, 2017-12-20 16:03:22, 2017-12-19 16:21:54, closed, https://api.github.com/repos/vuejs/vue/issues/7282
+7294, 2017-12-21 15:36:24, 2017-12-21 04:23:33, closed, https://api.github.com/repos/vuejs/vue/issues/7294
+7330, 2018-01-05 22:44:45, 2017-12-27 09:46:55, closed, https://api.github.com/repos/vuejs/vue/issues/7330
+7390, 2018-01-05 22:46:04, 2018-01-05 16:20:36, closed, https://api.github.com/repos/vuejs/vue/issues/7390
+7531, 2018-03-12 23:32:37, 2018-01-25 08:53:42, closed, https://api.github.com/repos/vuejs/vue/issues/7531
+7544, 2018-03-08 16:24:10, 2018-01-27 14:58:04, closed, https://api.github.com/repos/vuejs/vue/issues/7544
+7566, 2018-03-12 17:05:42, 2018-01-30 12:34:40, closed, https://api.github.com/repos/vuejs/vue/issues/7566
+7573, 2018-03-09 18:13:17, 2018-01-31 07:18:35, closed, https://api.github.com/repos/vuejs/vue/issues/7573
+7579, 2018-01-31 15:53:03, 2018-01-31 15:41:08, closed, https://api.github.com/repos/vuejs/vue/issues/7579
+7669, 2018-02-21 15:21:52, 2018-02-20 10:59:49, closed, https://api.github.com/repos/vuejs/vue/issues/7669
+7756, 2018-03-09 20:24:27, 2018-03-06 17:19:48, closed, https://api.github.com/repos/vuejs/vue/issues/7756
+7759, 2018-03-09 20:03:45, 2018-03-06 21:27:30, closed, https://api.github.com/repos/vuejs/vue/issues/7759
+7817, 2018-03-13 21:49:05, 2018-03-13 07:35:26, closed, https://api.github.com/repos/vuejs/vue/issues/7817
+7879, None, 2018-03-22 14:02:09, open, https://api.github.com/repos/vuejs/vue/issues/7879
+7913, 2018-12-02 02:09:12, 2018-03-28 14:15:15, closed, https://api.github.com/repos/vuejs/vue/issues/7913
+7975, 2018-12-01 22:07:51, 2018-04-06 13:05:36, closed, https://api.github.com/repos/vuejs/vue/issues/7975
+7982, 2018-04-08 22:22:14, 2018-04-08 17:14:43, closed, https://api.github.com/repos/vuejs/vue/issues/7982
+8021, None, 2018-04-13 21:40:44, open, https://api.github.com/repos/vuejs/vue/issues/8021
+8032, 2018-12-02 16:34:48, 2018-04-16 09:07:49, closed, https://api.github.com/repos/vuejs/vue/issues/8032
+8076, 2018-10-24 17:24:32, 2018-04-24 12:43:04, closed, https://api.github.com/repos/vuejs/vue/issues/8076
+8101, 2018-10-24 16:50:43, 2018-04-28 18:54:38, closed, https://api.github.com/repos/vuejs/vue/issues/8101
+8103, 2018-10-24 17:25:15, 2018-04-29 12:14:49, closed, https://api.github.com/repos/vuejs/vue/issues/8103
+8199, 2018-10-24 17:26:21, 2018-05-18 14:02:51, closed, https://api.github.com/repos/vuejs/vue/issues/8199
+8286, 2018-10-24 17:24:25, 2018-06-01 09:01:26, closed, https://api.github.com/repos/vuejs/vue/issues/8286
+8293, 2018-06-21 17:09:29, 2018-06-04 06:22:33, closed, https://api.github.com/repos/vuejs/vue/issues/8293
+8346, 2018-12-19 19:00:39, 2018-06-13 08:37:18, closed, https://api.github.com/repos/vuejs/vue/issues/8346
+8468, 2018-10-24 18:03:04, 2018-07-06 19:43:19, closed, https://api.github.com/repos/vuejs/vue/issues/8468
+8545, 2018-12-02 17:32:04, 2018-07-24 12:19:41, closed, https://api.github.com/repos/vuejs/vue/issues/8545
+8567, 2018-11-29 23:14:29, 2018-07-27 19:39:13, closed, https://api.github.com/repos/vuejs/vue/issues/8567
+8740, 2018-11-30 22:36:29, 2018-08-31 15:32:40, closed, https://api.github.com/repos/vuejs/vue/issues/8740
+8831, None, 2018-09-24 00:06:46, open, https://api.github.com/repos/vuejs/vue/issues/8831
+8842, 2018-12-01 20:25:35, 2018-09-25 14:58:03, closed, https://api.github.com/repos/vuejs/vue/issues/8842
+8895, None, 2018-10-04 08:07:44, open, https://api.github.com/repos/vuejs/vue/issues/8895
+8950, 2018-11-30 23:02:54, 2018-10-15 08:58:34, closed, https://api.github.com/repos/vuejs/vue/issues/8950
+8961, 2018-12-02 19:25:13, 2018-10-16 23:10:47, closed, https://api.github.com/repos/vuejs/vue/issues/8961
+8973, 2018-11-06 07:55:02, 2018-10-20 12:05:20, closed, https://api.github.com/repos/vuejs/vue/issues/8973
+8977, 2018-12-01 05:05:13, 2018-10-22 16:48:48, closed, https://api.github.com/repos/vuejs/vue/issues/8977
+9198, 2019-01-10 21:11:19, 2018-12-13 14:03:03, closed, https://api.github.com/repos/vuejs/vue/issues/9198
+9213, 2018-12-17 15:41:16, 2018-12-17 12:00:43, closed, https://api.github.com/repos/vuejs/vue/issues/9213
+9231, 2019-01-11 16:11:25, 2018-12-20 04:56:49, closed, https://api.github.com/repos/vuejs/vue/issues/9231
+9234, None, 2018-12-20 18:20:14, open, https://api.github.com/repos/vuejs/vue/issues/9234
+9255, None, 2018-12-26 12:57:35, open, https://api.github.com/repos/vuejs/vue/issues/9255
+9320, None, 2019-01-14 22:34:51, open, https://api.github.com/repos/vuejs/vue/issues/9320
+9330, 2019-02-04 22:43:49, 2019-01-16 16:46:33, closed, https://api.github.com/repos/vuejs/vue/issues/9330
+9364, 2019-03-14 07:47:04, 2019-01-24 12:07:38, closed, https://api.github.com/repos/vuejs/vue/issues/9364
+9382, 2019-01-31 15:08:36, 2019-01-28 16:41:01, closed, https://api.github.com/repos/vuejs/vue/issues/9382
+9383, 2019-02-04 22:39:49, 2019-01-28 18:43:08, closed, https://api.github.com/repos/vuejs/vue/issues/9383
+9396, 2019-01-31 15:24:59, 2019-01-31 11:04:04, closed, https://api.github.com/repos/vuejs/vue/issues/9396
+9417, 2019-02-04 20:33:07, 2019-02-04 19:12:12, closed, https://api.github.com/repos/vuejs/vue/issues/9417
+9506, 2019-02-18 22:18:05, 2019-02-16 08:36:43, closed, https://api.github.com/repos/vuejs/vue/issues/9506
+9511, 2019-02-21 19:01:54, 2019-02-17 20:58:34, closed, https://api.github.com/repos/vuejs/vue/issues/9511
+9571, 2019-02-28 22:37:53, 2019-02-25 14:26:49, closed, https://api.github.com/repos/vuejs/vue/issues/9571
+9577, 2019-02-28 14:37:23, 2019-02-26 11:49:05, closed, https://api.github.com/repos/vuejs/vue/issues/9577
+9616, 2019-03-05 21:46:57, 2019-03-04 11:06:26, closed, https://api.github.com/repos/vuejs/vue/issues/9616
+9628, 2019-03-14 07:45:43, 2019-03-05 13:08:41, closed, https://api.github.com/repos/vuejs/vue/issues/9628
+9641, 2019-03-08 17:01:03, 2019-03-06 21:50:14, closed, https://api.github.com/repos/vuejs/vue/issues/9641
+9644, 2019-03-08 18:04:23, 2019-03-07 12:41:05, closed, https://api.github.com/repos/vuejs/vue/issues/9644
+9698, 2019-03-15 01:07:15, 2019-03-14 10:22:31, closed, https://api.github.com/repos/vuejs/vue/issues/9698
+9699, 2019-03-18 09:43:40, 2019-03-14 13:38:31, closed, https://api.github.com/repos/vuejs/vue/issues/9699
+9707, 2019-03-18 08:19:42, 2019-03-15 07:21:40, closed, https://api.github.com/repos/vuejs/vue/issues/9707
+9711, 2019-03-18 08:23:42, 2019-03-15 12:51:02, closed, https://api.github.com/repos/vuejs/vue/issues/9711
+9781, 2020-09-21 14:01:47, 2019-03-27 07:18:08, closed, https://api.github.com/repos/vuejs/vue/issues/9781
+9842, None, 2019-04-07 13:50:03, open, https://api.github.com/repos/vuejs/vue/issues/9842
+9876, None, 2019-04-15 13:01:52, open, https://api.github.com/repos/vuejs/vue/issues/9876
+9920, 2019-04-25 13:04:53, 2019-04-25 04:53:36, closed, https://api.github.com/repos/vuejs/vue/issues/9920
+9972, None, 2019-05-03 22:59:25, open, https://api.github.com/repos/vuejs/vue/issues/9972
+10004, None, 2019-05-09 16:59:33, open, https://api.github.com/repos/vuejs/vue/issues/10004
+10029, None, 2019-05-15 12:55:28, open, https://api.github.com/repos/vuejs/vue/issues/10029
+10083, None, 2019-05-29 08:27:36, open, https://api.github.com/repos/vuejs/vue/issues/10083
+10087, 2020-09-21 15:42:08, 2019-05-30 13:41:52, closed, https://api.github.com/repos/vuejs/vue/issues/10087
+10152, None, 2019-06-13 14:49:38, open, https://api.github.com/repos/vuejs/vue/issues/10152
+10224, None, 2019-07-03 09:18:19, open, https://api.github.com/repos/vuejs/vue/issues/10224
+10260, None, 2019-07-12 05:07:52, open, https://api.github.com/repos/vuejs/vue/issues/10260
+10271, None, 2019-07-15 06:42:45, open, https://api.github.com/repos/vuejs/vue/issues/10271
+10330, None, 2019-07-31 13:54:09, open, https://api.github.com/repos/vuejs/vue/issues/10330
+10391, None, 2019-08-13 22:19:40, open, https://api.github.com/repos/vuejs/vue/issues/10391
+10416, None, 2019-08-20 16:39:35, open, https://api.github.com/repos/vuejs/vue/issues/10416
+10455, 2019-09-11 03:48:38, 2019-08-29 23:11:14, closed, https://api.github.com/repos/vuejs/vue/issues/10455
+10480, None, 2019-09-05 19:49:10, open, https://api.github.com/repos/vuejs/vue/issues/10480
+10485, None, 2019-09-06 02:00:37, open, https://api.github.com/repos/vuejs/vue/issues/10485
+10519, 2020-09-21 10:24:18, 2019-09-15 00:00:23, closed, https://api.github.com/repos/vuejs/vue/issues/10519
+10524, 2019-09-22 14:28:45, 2019-09-16 12:23:47, closed, https://api.github.com/repos/vuejs/vue/issues/10524
+10547, None, 2019-09-22 20:08:58, open, https://api.github.com/repos/vuejs/vue/issues/10547
+10614, None, 2019-10-10 16:16:52, open, https://api.github.com/repos/vuejs/vue/issues/10614
+10628, None, 2019-10-13 14:06:54, open, https://api.github.com/repos/vuejs/vue/issues/10628
+10731, None, 2019-10-18 17:05:31, open, https://api.github.com/repos/vuejs/vue/issues/10731
+10733, None, 2019-10-20 16:02:54, open, https://api.github.com/repos/vuejs/vue/issues/10733
+10803, 2020-09-21 14:04:59, 2019-11-06 14:59:35, closed, https://api.github.com/repos/vuejs/vue/issues/10803
+10843, 2020-09-21 09:20:25, 2019-11-19 12:59:54, closed, https://api.github.com/repos/vuejs/vue/issues/10843
+10867, 2020-09-21 14:16:46, 2019-11-26 10:10:45, closed, https://api.github.com/repos/vuejs/vue/issues/10867
+10906, None, 2019-12-08 17:15:15, open, https://api.github.com/repos/vuejs/vue/issues/10906
+10963, 2020-02-24 20:13:35, 2019-12-27 14:02:17, closed, https://api.github.com/repos/vuejs/vue/issues/10963
+11032, None, 2020-01-19 00:28:26, open, https://api.github.com/repos/vuejs/vue/issues/11032
+11059, None, 2020-01-29 10:24:11, open, https://api.github.com/repos/vuejs/vue/issues/11059
+11084, None, 2020-02-05 23:54:37, open, https://api.github.com/repos/vuejs/vue/issues/11084
+11109, None, 2020-02-14 14:53:03, open, https://api.github.com/repos/vuejs/vue/issues/11109
+11171, None, 2020-03-02 13:38:31, open, https://api.github.com/repos/vuejs/vue/issues/11171
+11248, None, 2020-03-26 15:05:43, open, https://api.github.com/repos/vuejs/vue/issues/11248
+11297, None, 2020-04-08 20:36:50, open, https://api.github.com/repos/vuejs/vue/issues/11297
+11299, None, 2020-04-09 14:05:19, open, https://api.github.com/repos/vuejs/vue/issues/11299
+11315, None, 2020-04-15 21:06:09, open, https://api.github.com/repos/vuejs/vue/issues/11315
+11446, None, 2020-06-10 04:47:20, open, https://api.github.com/repos/vuejs/vue/issues/11446
+11533, None, 2020-07-22 08:09:44, open, https://api.github.com/repos/vuejs/vue/issues/11533
+11569, None, 2020-08-06 10:10:06, open, https://api.github.com/repos/vuejs/vue/issues/11569
+11575, None, 2020-08-07 14:27:38, open, https://api.github.com/repos/vuejs/vue/issues/11575
+11652, None, 2020-09-09 07:52:34, open, https://api.github.com/repos/vuejs/vue/issues/11652
+11713, None, 2020-10-07 09:58:47, open, https://api.github.com/repos/vuejs/vue/issues/11713
+11714, None, 2020-10-07 16:54:58, open, https://api.github.com/repos/vuejs/vue/issues/11714
+11771, None, 2020-11-13 21:33:16, open, https://api.github.com/repos/vuejs/vue/issues/11771

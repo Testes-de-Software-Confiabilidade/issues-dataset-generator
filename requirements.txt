@@ -4,3 +4,11 @@ reliability
 matplotlib
 scipy
 flask
+rq
+firebase == 3.0.1
+python_jwt
+gcloud
+sseclient
+pycryptodome
+requests_toolbelt
+python-dotenv

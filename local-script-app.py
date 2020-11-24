@@ -1,4 +1,4 @@
-SOFTWARE = 'ANGULARJS'
+SOFTWARE = 'VUE'
 
 from RepositoryClass import Repository
     

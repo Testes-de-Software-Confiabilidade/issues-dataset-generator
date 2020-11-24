@@ -1,13 +1,6 @@
 import github
-from github.PaginatedList import PaginatedList
-from RepositoryClass import Repository
 from IssueClass import Issue
-
-import datetime
-import time
-from github import RateLimitExceededException
-
-import requests
+from rq import get_current_job
 
 
 class DatasetGenerator:
@@ -20,12 +13,12 @@ class DatasetGenerator:
             self.g = github.Github(token)
             self.repository_connection = self.g.get_repo(repository.url)
 
-            self.idx = 0
-            self.tokens_list = [
-                '',  # DURVAL
-                '',  # MICA
-                ''   # LUCAS
-            ]
+            # self.idx = 0
+            # self.tokens_list = [
+            #     '',  # DURVAL
+            #     '',  # MICA
+            #     ''   # LUCAS
+            # ]
             self.all_issues = self.repository_connection.get_issues(
                 state='all',  # closed and open
                 # get only issues with must_have_labels
@@ -64,6 +57,9 @@ class DatasetGenerator:
         with open(self.repository.dataset_file, 'w') as file:
             file.write('"id", "closed_at", "created_at", "state", "url"\n')
 
+            job = get_current_job()
+            job.meta['total_of_issues'] = total
+
             for i, issue in enumerate(self.all_issues):
 
                 remaining = self.g.get_rate_limit().core.remaining
@@ -74,7 +70,10 @@ class DatasetGenerator:
                 #         self.tokens_list[self.idx % 3]
 
                 perc = str(int(((i/total)*10000))/100) + '%'
-                print(i, total, perc, self.g.get_rate_limit())
+                # print(i, total, perc, self.g.get_rate_limit())
+                job.meta['progress'] = perc
+                job.meta['issues_processed'] = i
+                job.save_meta()
 
                 if(issue.pull_request):
                     continue
@@ -84,11 +83,13 @@ class DatasetGenerator:
                     file.write(
                         (f"{issue.number}, {issue.closed_at}, {issue.created_at}, {issue.state}, {issue.url}\n"))
 
-                    print(f'{issue.number} {issue.html_url} is valid\n')
-                else:
-                    print(f'{issue.number} {issue.html_url} is invalid\n')
+                #     print(f'{issue.number} {issue.html_url} is valid\n')
+                # else:
+                #     print(f'{issue.number} {issue.html_url} is invalid\n')
 
-        print('%s issues válidas' % len(filtered_issues))
+        # print('%s issues válidas' % len(filtered_issues))
+        job.meta['valid_issues'] = len(filtered_issues)
+        job.save_meta()
         return filtered_issues
 
     def get_issue_months(self):

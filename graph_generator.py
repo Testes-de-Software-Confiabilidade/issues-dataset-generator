@@ -1,14 +1,13 @@
-from reliability.Distributions import Weibull_Distribution
 from reliability.Fitters import Fit_Weibull_2P
+from reliability.Utils import generate_X_array
+
+from firebase import Firebase
+from rq import get_current_job
+
 import matplotlib.pyplot as plt
 from collections import Counter
-
-
-from reliability.Utils import generate_X_array
 import scipy.stats as ss
 
-import numpy as np
-# from sklearn import linear_model
 
 class GraphGenerator:
 
@@ -16,6 +15,7 @@ class GraphGenerator:
         self.dg = dataset_generator
     
     # def linear_regression(self, axis_x, axis_y):
+    #     from sklearn import linear_model
     #     axis_x = np.array(axis_x).reshape((-1, 1))
     #     axis_y = np.array(axis_y)
 
@@ -63,5 +63,10 @@ class GraphGenerator:
 
         fig.tight_layout()
         plt.savefig(self.dg.repository.chart_name)
+        
+        job = get_current_job()
+        job.meta['image_name'] = self.dg.repository.chart_name
+        job.save_meta()
+
         # plt.show()
 
