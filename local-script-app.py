@@ -42,7 +42,12 @@ elif(SOFTWARE == 'SPRING'):
     filters_rules = {
         'labels': {
             'must_have': ['type: bug'],
-            'blocklist_labels': []
+            'blocklist_labels': [
+                'status: duplicate',
+                'status: superseded',
+                'status: waiting-for-triage',
+                'status: invalid'
+            ]
         }
     }
 
