@@ -1,7 +1,8 @@
 SOFTWARE = 'VUE'
 
 from RepositoryClass import Repository
-    
+
+# YOU CAN CREATE ANOTHER REPO RULES
 if(SOFTWARE == 'VUE'):
     filters_rules = {
         'labels': {
@@ -18,7 +19,7 @@ elif(SOFTWARE=='ANGULARJS'):
             'must_have': ['type: bug'],
 
             'blocklist_labels': [
-                'resolution: invalid', 
+                'resolution: invalid',
                 "resolution: can't reproduce",
                 'resolution: duplicate',
                 'Known Issue'
@@ -75,7 +76,7 @@ else:
     r = Repository('dotnet/aspnetcore', filters_rules)
 
 
-# GITHUB_TOKEN = 'be6ad3ae367aa35905985400b6f824b1232f0cd6'
+GITHUB_TOKEN = '<YOUR GITHUB TOKEN HERE>'
 
 from dataset_generator import DatasetGenerator
 from graph_generator import GraphGenerator
@@ -83,7 +84,7 @@ from graph_generator import GraphGenerator
 from collections import Counter
 
 def main():
-    
+
     # change loadFromFile to True if you have dataset file
     dg = DatasetGenerator(token=GITHUB_TOKEN, repository=r, loadFromFile=True)
 
